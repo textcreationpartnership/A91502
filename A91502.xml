@@ -1,0 +1,765 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mene mene, tekel upharsin. The second part of Mene tekel, treating of the year MDCLXXXIX. : And modestly shewing what may probably be conjectured to succeed in the affairs of Europe in general, and of England, Holland, Scotland, and France in particular; with something also about the affairs of Ireland, and the French King's forces there. : To which is added a treasonable paper dispersed among the papists, by J. Gadbury, with some reflections thereon, and also on his almanack for 1689. / By John Partridge.</title>
+            <author>Partridge, John, 1644-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91502</idno>
+            <idno type="STC">Wing P619A</idno>
+            <idno type="STC">ESTC R203323</idno>
+            <idno type="EEBO-CITATION">45789369</idno>
+            <idno type="OCLC">ocm 45789369</idno>
+            <idno type="VID">172680</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172680)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2645:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mene mene, tekel upharsin. The second part of Mene tekel, treating of the year MDCLXXXIX. : And modestly shewing what may probably be conjectured to succeed in the affairs of Europe in general, and of England, Holland, Scotland, and France in particular; with something also about the affairs of Ireland, and the French King's forces there. : To which is added a treasonable paper dispersed among the papists, by J. Gadbury, with some reflections thereon, and also on his almanack for 1689. / By John Partridge.</title>
+                  <author>Partridge, John, 1644-1715.</author>
+                  <author>Gadbury, John, 1627-1704.</author>
+               </titleStmt>
+               <extent>[8], 32 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Awnsham Churchil ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCLXXXIX [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licens'd May 23 1689. J. Fraser."</note>
+                  <note>Imperfect: Print show-through.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Europe --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172680:1"/>
+            <pb facs="tcp:172680:1" rendition="simple:additions"/>
+            <p>MENE MENE, TEKEL UPHARSIN.</p>
+            <figure/>
+            <p>THE Second Part of MENE TEKEL: Treating Of the Year MDCLXXXIX.</p>
+            <p>And modeſtly ſhewing what may probably be Conjectu<g ref="char:EOLhyphen"/>red to ſucceed in the Affairs of <hi>Europe</hi> in General, and of <hi>England, Holland, Scotland,</hi> and <hi>France</hi> in Particular; with ſomething alſo about the Affairs of <hi>Ireland,</hi> and the <hi>French King's Forces there.</hi>
+            </p>
+            <p>To which is added, a Treaſonable Paper diſperſed among the Papiſts, by <hi>J. Gadbury,</hi> with ſome Reflections thereon, and alſo on his Almanack for 1689.</p>
+            <p>By <hi>JOHN PARTRIDGE.</hi>
+            </p>
+            <p>Licens'd <hi>May</hi> 23, 1689. <hi>J. Fraſer.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Awnſham Churchil</hi> at the Black-Swan in <hi>Ave-Mary-Lane,</hi> MDCLXXXIX,</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172680:2"/>
+            <pb facs="tcp:172680:2"/>
+            <head>To the Honeſt Reader.</head>
+            <p>SInce Heaven and our good Stars have been ſo kind to give me an opportunity to kiſs your hand in this nature again in my Native Country, without danger of being <hi>whipp'd</hi> or <hi>Jail'd</hi> for affronting <hi>Popery,</hi> &amp;c. or being <hi>indicted</hi> for <hi>Sedition</hi> for writing againſt it in my way; ſo I hope theſe Lines will find you alſo in a better and a more ſatisfied Condition than formerly, and your <hi>Jugulars</hi> more free and ſafe from <hi>Po<g ref="char:EOLhyphen"/>piſh Knives</hi> and <hi>Halters,</hi> a Curſe too common within a few Months foregoing; but God be thanked, the caſe is altered, and to our Advantage the Tables are turned, and the Nation is in a very fair way to retrieve its ancient Peace and Grandeur again under his preſent <hi>Majeſty.</hi> But this by the way; the Errand of my Epiſtle is to acquaint you with three or four things before I come to the thing in hand.</p>
+            <p>Firſt then; It may perhaps ſeems ſtrange to ſee a thing of this nature come from me at this time, the Year being now half ſpent; and indeed for that reaſon I did not intend to have wrote any thing this Year [my <hi>Almanack</hi> for <hi>1690</hi> excepted] it being not my cuſtom at this Seaſon to do it: But finding by Reports from divers of my Acquaintance that there was a very ill uſe made of my Silence, not only by <hi>Papiſts</hi> and <hi>Tories,</hi> but alſo by <hi>true honeſt Engliſhmen,</hi> Friends to the <hi>King</hi> and <hi>Government,</hi> who have reported and believed, becauſe I had not writ this Year as I uſe to do, that from thence they judg'd it was my Opinion that the late <hi>Abdicated King</hi> would return again to his former <hi>Power</hi> and <hi>Dignity</hi> in <hi>England;</hi> therefore to undeceive them, and let the World know it is not my Opinion nor any thing like it, I have publiſhed theſe few Sheets following.</p>
+            <pb facs="tcp:172680:3"/>
+            <p>Secondly; I have often been asked by my Friends ſince my Return to <hi>England,</hi> if I had writ any thing, <hi>Prophecies</hi> being cried about the City and Country in my Name, and many of them bought, and indeed I have heard them cryed my ſelf? This there<g ref="char:EOLhyphen"/>fore I will tell you ance for all, That I never did write any thing by the name of <hi>Prophecy,</hi> nor never will; and therefore you may be ſure if any ſuch thing ſhall be publiſhed at any time under the Notion of <hi>Prophecy,</hi> or any other Title in a ſingle Sheet in my Name, it is not mine; but an Abuſe upon me, and a Cheat upon you, done and managed by ſome of the little People that cheat by Retail.</p>
+            <p>Thirdly; Perhaps it may ſeem a little rough and hard to ſome modeſt Readers when they hear or conſider what I have ſaid of <hi>John Gadbury,</hi> eſpecially he and I having been very intimate for<g ref="char:EOLhyphen"/>merly, and he one that pretends to have been my <hi>Tutor</hi> in theſe Studies. 'Tis true the Man was civil to me when I began to ſtudy, but I own no Maſter but Dr. <hi>Francis Wright.</hi> But to undeceive the Reader, I muſt give a ſhort account of the Affairs betwixt him and I.</p>
+            <p>We firſt came acquainted in <hi>1665,</hi> and from thence as often as we had opportunity we continued it in the uſual ways of Conver<g ref="char:EOLhyphen"/>ſation and Fellowſhip till the Year <hi>1680,</hi> at which time he took occaſion to differ with me about <hi>Popery,</hi> and then we began to be ſtrange one to the other till I left <hi>England</hi> in <hi>1685;</hi> and from our firſt Acquaintance to that time, I can ſpeak it with a ſafe Conſcience in the Preſence of God, that I never let fall an un<g ref="char:EOLhyphen"/>ſeemly word concerning him in any Company, for I had a reſpect for the Man becauſe of our long Acquaintance, neither was I willing to give any ground for a Quarrel. But in the Year <hi>1687,</hi> about the time that he went to <hi>Maſs</hi> openly, and declared himſelf a <hi>Papiſt,</hi> he wrote a Book againſt me, which he called a <hi>Reply,</hi> printed by <hi>Nat. Thompſon,</hi> in which Treatiſe he abuſed me in ſuch undecent and ungentile Expreſſions, that it would have been a Scandal for any one to have uſed them at <hi>Billingſgate</hi> it ſelf,
+<pb facs="tcp:172680:3"/>
+               <hi>Rogue, Raſcal, Traitor, Villain,</hi> and <hi>Renegado</hi> being the <hi>Subject</hi> of his Book, and the <hi>lively Touches</hi> of his Pen, and all this without any Cauſe or Occaſion given to him on my ſide; and I challenge him to tell the World if he can, when, or where I ever gave him the leaſt occaſion imaginable for it.</p>
+            <p>So that now I leave it to the World to judg between us, and whether I am not juſtly provoked to do what I have and ſhall do; for I do aſſure you I take no delight in Controverſies of this na<g ref="char:EOLhyphen"/>ture, neither is it a peeviſh paſſionate Humour that moves me, but really to ſhew the World how unjuſt and unſteady a Man he is in his Morals and Divine Things, that hath abuſed me; and alſo how ignorant he is in his Profeſſion, his principal Skill and Art being his <hi>Cant</hi> and <hi>Hypocriſy:</hi> But let me tell him that this is but the beginning of our Difference.</p>
+            <p>Fourthly; I find ſome peeviſh People are apt to exclaim againſt <hi>Aſtrology,</hi> becauſe the <hi>late King</hi> did not dye in <hi>October</hi> or <hi>November 1688,</hi> pretending that I had ſaid in Print he would then die, but I would very fain have them ſhow it to me where I have ſo ſaid: Indeed I did think he would have died, and yet his not dying is no Injury to <hi>Aſtrology,</hi> unleſs among thoſe that are malicious and ſomething worſe: However I ſhall ſay but two things in the caſe,</p>
+            <p n="1">
+               <hi>1.</hi> To thoſe that underſtand <hi>Aſtrology,</hi> or pretend to it, [for I hear a <hi>double-ſighted</hi> Man hath talked more than came to his ſhare] what I predicted was fully verified, for it happened within a Month of the time mentioned; and now the thing is over, I will defy them to give any reaſon for it, that ſhall have the ſame Effect in another Nativity, or ſomething like it: Let them out<g ref="char:EOLhyphen"/>do it if they can.</p>
+            <p n="2">2. To thoſe that know nothing of <hi>Aſtrology,</hi> there is no blame to be laid on the Art, nor indeed I cannot ſee how they can blame me; for the Effect is ſo like <hi>Death,</hi> that it doth as well for the Deliverance of the <hi>Nation,</hi> and I hope they cannot ſay but it happened at the ſame time I had predicted it too. It is
+<pb facs="tcp:172680:4"/>indeed a <hi>Civil Death,</hi> and to him I think worſe than <hi>Death:</hi> however there are ſome that would have quarrelled with it too if he had then died at the time exactly, and ſaid it was predicted by chance; ſo that I ſhall leave every Man to think and judg as he pleaſeth, being ſatisfied my ſelf that theirs are no Arguments againſt Aſtrology to ingenious Men, nor any but thoſe who are as ignorant and as idle as themſelves, I could name them and their Vices, if I pleaſed without Charge to their Purſes, <hi>&amp;c.</hi>
+            </p>
+            <p>Thus Reader, I have done in as ſhort words as I can, being unwilling to detain thee longer: if I have treſpaſſed, excuſe the trouble, and it ſhall be an Obligation to,</p>
+            <closer>
+               <signed>Your Humble Servant, <hi>JOHN PARTRIDGE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="fable">
+            <pb facs="tcp:172680:4"/>
+            <head>The Fable of the Owls.</head>
+            <l>BEtween two Hills, by a ſweet River ſtood</l>
+            <l>[Compos'd of well-ſpread Trees] a ſtately Wood;</l>
+            <l>Whoſe Boughs, by Night, to ſoaring Fowls gave reſt,</l>
+            <l>And on the Earth beneath there lay the Beaſts:</l>
+            <l>To this ſweet Grove reſorted divers Fowls,</l>
+            <l>But the chief Dwellers there were <hi>Doves</hi> and <hi>Owls:</hi>
+            </l>
+            <l>There did they breed, and likewiſe feed and prey,</l>
+            <l>The <hi>Owls</hi> by Night, but the poor <hi>Doves</hi> by Day.</l>
+            <l>The <hi>Doves</hi> were harmleſs, and had no defence,</l>
+            <l>The <hi>Owls</hi> ('tis true) had <hi>Claws,</hi> but little Senſe.</l>
+            <l>But yet they govern'd, and were publick <hi>Owls,</hi>
+            </l>
+            <l>Such as that State thought fit to uſe for Tools.</l>
+            <l>Thus here they liv'd, and ſometimes unoppreſt,</l>
+            <l>The <hi>Owls</hi> with <hi>Doves,</hi> the <hi>Doves</hi> with <hi>Owls</hi> converſt:</l>
+            <l>'Till there at laſt, by a ſtrange Fate arriv'd</l>
+            <l>A <hi>Rav'nous Hawk</hi> that prey'd on every ſide:</l>
+            <l>He knew no Limits, nothing ſcap'd his Claws,</l>
+            <l>Nor were his Actions ſway'd or bound by Laws;</l>
+            <l>Pull'd down all <hi>Order</hi> they could call their own,</l>
+            <l>And by his <hi>Lawleſs Will</hi> he ſet up none.</l>
+            <l>When he abroad had miſt his daily Prey,</l>
+            <l>At Night he'd fetch a <hi>Dove</hi> or <hi>Owl</hi> away:</l>
+            <l>Take here a <hi>Head,</hi> perhaps a <hi>Limb</hi> with it,</l>
+            <l>And their Heart-Blood too if he thought it fit.</l>
+            <l>Pull down their Neſts, deſtroy their Breed, and when</l>
+            <l>They durſt rebuild, he'd pull 'em down agen.</l>
+            <l>By <hi>Rage</hi> and <hi>Rape</hi> this was their Miſery,</l>
+            <l>And his <hi>Attendance</hi> were as bad as he.</l>
+            <l>A <hi>Neighbour</hi> near ſeeing what ſpoil was made,</l>
+            <l>And fear'd both <hi>Doves</hi> and <hi>Owls</hi> would be deſtroy'd</l>
+            <l>Drove thence the <hi>Tyrant Hawk:</hi> and by his Care,</l>
+            <l>Free'd them at once from Danger, Death and Fear.</l>
+            <pb facs="tcp:172680:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172680:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172680:6"/>
+            <l>The <hi>Doves</hi> were glad to ſee ſuch help ariſe,</l>
+            <l>And paid his Care with <hi>Thanks</hi> and <hi>Sacrifice:</hi>
+            </l>
+            <l>But the <hi>dull Owls,</hi> curſt with their old Diſeaſe,</l>
+            <l>Had neither <hi>Sence</hi> to <hi>thank,</hi> nor know their Eaſe;</l>
+            <l>They ſullen grew, and their Deliv'rance ſcorn'd,</l>
+            <l>Becauſe themſelves were not to <hi>Hawks transform'd:</hi>
+            </l>
+            <l>They <hi>growl'd,</hi> and <hi>ſwell'd,</hi> and <hi>pouted</hi> as they flew,</l>
+            <l>And to compleat their Crimes they <hi>murmur'd</hi> too;</l>
+            <l>They ſoon forgot their old preceeding Curſe,</l>
+            <l>And from their own curſt Boſoms form'd a worſe.</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nder falſe Notions knaviſhly complain,</l>
+            <l>Spew up their Rage, then ſwallow it again.</l>
+            <l>They ſought Advice amidſt this Diſcontent,</l>
+            <l>And to the <hi>Jugling Rooks</hi> theſe Owls were ſent:</l>
+            <l>There 'twas agree'd, and by Debate 'twas ſway'd,</l>
+            <l>The Counſel given them muſt be obey'd.</l>
+            <l>So they agree'd [obſerve theſe ſenſleſs Tools]</l>
+            <l>To ſhew indeed they were no more but <hi>Owls.</hi>
+            </l>
+            <l>
+               <hi>Grave Owls</hi> (quoth they) be rul'd and ask no more,</l>
+            <l>Since you our Counſel and Advice adore,</l>
+            <l>Return and <hi>dwell</hi> in <hi>Egypt</hi> as before.</l>
+            <l>
+               <hi>Freedom's a Bubble,</hi> ſhould you that once know,</l>
+            <l>Perhaps <hi>your Worſhips</hi> will remove us too.</l>
+            <l>So they obey'd, and all the <hi>Paſſive Throng</hi>
+            </l>
+            <l>Took this Advice, from whence their <hi>Curſes ſprung:</hi>
+            </l>
+            <l>Then 'twas reſolv'd, and all in Crowds they came,</l>
+            <l>And in theſe Words they begg'd their <hi>Hawk</hi> again.</l>
+            <l>
+               <hi>Dread Sir!</hi>
+            </l>
+            <l>Above all Laws that ever yet were made,</l>
+            <l>Your Will's moſt juſt, and ought to be obey'd;</l>
+            <l>And who refuſeth, and will not comply,</l>
+            <l>Nay, or but queſtions it, he ought to dye.</l>
+            <l>Return and make us happy as <hi>before,</hi>
+            </l>
+            <l>For what you've done was <hi>Juſtice</hi> and no more;</l>
+            <l>We now are Yours, and you our <hi>Sovereign Lord,</hi>
+            </l>
+            <l>Bring all the <hi>Hawks</hi> the Foreſt will afford;</l>
+            <l>For we your <hi>humble Slaves</hi> before you <hi>bow,</hi>
+            </l>
+            <l>Tendring our <hi>Heads, Hearts, Limbs,</hi> and all to you,</l>
+            <l>And when you pleaſe pray take 'em as your due.</l>
+            <q>
+               <hi>Sic dixere Ululae.</hi>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172680:6"/>
+            <head>UPHARSIN, OR The ſecond Part of MENE TEKEL: Treating of The Year MDCLXXXIX.</head>
+            <p>
+               <hi>PTOLOMEY</hi> the great Maſter of Aſtrology hath in divers places of his <hi>Quadripartite,</hi> and in the ninth Chapter of the ſecond Book in particular, given Direction to judg Mundane Affairs, by conſidering the Figures of the <hi>Sun</hi>'s Ingreſſes into the four Cardinal Points, together with the preventional and poſtventional New and Full Moons, and the rather if any Eclipſes happen then or near them: by which Accident they are rendred the more Eminent and Re<g ref="char:EOLhyphen"/>markable, which the Learned <hi>Placidus de Titis</hi> in his <hi>Ephemeris,</hi> Part 1. Chap. 5, 6, and 7, <hi>&amp;c.</hi> hath taken Pains to ſhew the Reaſons of the Author, and the thing he commanded, and that there is no Method ſo conſentaneous to Nature for a Foundation of Judgment, as that which is laid down by the Great <hi>Ptolomy;</hi> and according to this Method I ſhall endeavour to inquire into the Affairs and Actions likely to be the Subject of this Year; and therefore I will begin with the <hi>Sun</hi>'s Entrance into the Sign <hi>Aries,</hi> according to the Caroline Tables, which this Year is <hi>March</hi> the 9th, at 35 Minutes and 49 Seconds paſt 9 of the Clock in the Evening, in the Meridian of <hi>London.</hi> And here let me intreat my <hi>pious</hi> good Friend Mr. <hi>J. Gadbury,</hi> among the reſt of his <hi>Popiſh Vertues,</hi> not to be angry with me if I, or rather Mr. <hi>Street,</hi> differ from thoſe Ta<g ref="char:EOLhyphen"/>bles which that <hi>Impoſtor</hi> falſly calls his: For the Author of the <hi>Felſinean Ephemeris</hi> makes the Ingreſs of the <hi>Sun</hi> into <hi>Aries</hi> this Year 1689, to be at 38 minutes paſt Ten of the Clock at Night; and his <hi>Ephemeris</hi> is
+<pb n="2" facs="tcp:172680:7"/>deduced [he tells us] from the Hypotheſis of <hi>Lansberg, Bullialdus, Kepler,</hi> and <hi>Caſſinus.</hi> Now this Gentleman hath been ſo generous to tell from whence he hath wrought his <hi>Ephemeris,</hi> but our <hi>Popiſh Impo<g ref="char:EOLhyphen"/>ſtor J. G.</hi> would not do ſo in his: I ſuppoſe he durſt not for fear of being hiſt at: but, according to our Caroline Tables, thus did the Hea<g ref="char:EOLhyphen"/>vens behold the Earth at the time mentioned, as you may ſee by this Figure following.</p>
+            <figure>
+               <p>The <hi>Sun</hi> enters ♈ <hi>March</hi> the 9th at 35 min. 49 ſeconds after 9 at Night, 1689.</p>
+               <p>
+                  <g ref="char:Moon">☽</g> a <g ref="char:trine">△</g> ♄ ad ⚹ ♀</p>
+               <p>Sub. Lat. <hi>Lond.</hi>
+               </p>
+            </figure>
+            <p>
+               <table>
+                  <head>Lat. Planet.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>2</cell>
+                     <cell>14</cell>
+                     <cell>No.</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>0</cell>
+                     <cell>40</cell>
+                     <cell>So.</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>0</cell>
+                     <cell>27</cell>
+                     <cell>So.</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>1</cell>
+                     <cell>30</cell>
+                     <cell>No.</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                     <cell>No.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>So.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Declin. Planet.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>11</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>15</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>21</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>17</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>9</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>☉</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>In this Figure we find no conſiderable Poſitions to give Wars and Confuſions as are now approaching; neither doth the preventional Full Moon, nor the poſtventional New Moon ſhew any thing material; But if we pleaſe to conſider the time of the poſtventional Full Moon, we ſhall find as great an Eclipſe of the Moon as can be; for in the middle of the Eclipſe the Center of the Moons Body paſſeth exactly almoſt through the Center of the Shadow, or that Point vulgarly called the <hi>Dragons Tail;</hi> the middle of this Eclipſe, or the greateſt Obſcuration, happens in the twelfth Houſe of Heaven, the Houſe of Sorrow, Impriſonment and Trouble; and the <hi>Sun,</hi> who is the real Significator of <hi>Kings</hi> and great Men, is under the Earth in the ſixth Angle of Heaven, lately afflicted by the Mundane Parallel of <hi>Saturn,</hi> and ſo was the <hi>Moon</hi> too; alſo we may obſerve that <hi>Saturn</hi> and <hi>Mars</hi> are both Angular and in Square; and
+<pb n="3" facs="tcp:172680:7"/>the <hi>Moon</hi> alſo at that time is in a Mundane Square of <hi>Mars,</hi> and he in Oppoſition to the Mid-Heaven, the Aſcendent of <hi>Kings.</hi> And what is yet further to be obſerved, both <hi>Sun</hi> and <hi>Moon</hi> are applying to the Zo<g ref="char:EOLhyphen"/>diacal Parallels of <hi>Saturn;</hi> and <hi>Saturn</hi> alſo in Square to the Mid-Heaven, the Houſe of Honour. And laſtly, obſerve that there are none Angular at the time of this Eclipſe but <hi>Saturn, Jupiter</hi> and <hi>Mars,</hi> and they in Square and Oppoſition to the places of the laſt great Conjunction; all which conſidered are Arguments of Trouble and Miſchief to enſue after ſuch a Poſition that is ſo near the vernal Figure, and ſo aggravated, as you have here heard, by thoſe many Malevolent Poſitions and Configurations, which ſhall be in order diſcourſed and explained, what they ſignify and when their Effects may be expected; for theſe Configurations will not appear before the Solſtitial Ingreſs.</p>
+            <p>As a Foundation to the reſt, let us firſt conſider that the great <hi>Con<g ref="char:EOLhyphen"/>junction</hi> in the Year 1682, is now beginning to ſhew its Effects in ano<g ref="char:EOLhyphen"/>ther nature and way than what it hath done yet; for upon every Aſpect made by the Superiors <hi>Saturn, Jupiter</hi> and <hi>Mars,</hi> to the place of that Conjunction, you will find different kinds of Violence and Effects in the World, as you may obſerve by what is paſt in this Conjunction, and thoſe of former times. In 1686 <hi>Jupiter</hi> came to the Square of that place, and what Inventions were from that time uſed to build up a new <hi>Tyrannick</hi> Form of Government, I ſuppoſe moſt People remember: And now <hi>Jupiter</hi> is come to the oppoſite Point, and <hi>Saturn</hi> to the Square of it; which Aſpects uſually give Hurries and Confuſions in the World, as you may ſee it is now like to do; and it may be remem<g ref="char:EOLhyphen"/>bred that in 1639, <hi>Saturn</hi> came to the oppoſite place of the Conjuncti<g ref="char:EOLhyphen"/>on in the Year 1623.</p>
+            <p>The <hi>Eclipſe</hi> of the <hi>Moon</hi> in <hi>March</hi> happened juſt upon her riſing, and therefore the Effects thence depending will begin ſoon after: The Eclipſe falls in 15 degrees of <hi>Libra,</hi> an <hi>Aery Equinoctial</hi> Sign, which <hi>Junctine</hi> ſays, gives <hi>Inter Eccleſiaſticos Schiſmata;</hi> and indeed <hi>Ptolomy</hi> ſays it <hi>concerns things ſacred, and the Mutations of ſuch things as be<g ref="char:EOLhyphen"/>long to thoſe Perſons and Places,</hi> Lib. 2. Cap. vi. And <hi>Cardan</hi> ſeems to render a Reaſon for it when he ſays that the <hi>Eclipſes of the Lumi<g ref="char:EOLhyphen"/>naries operate more upon Cities, Provinces and Kingdoms than upon Kings or particular Perſons, becauſe they ſignify the Multitude,</hi> Seg. 5. Aphor. 45. And in another place he ſays <hi>Eclipſes in Aery Signs move Sedition in thoſe Kingdoms concerned under the Effects of them.</hi> And that is very natural to the eclipſed part of Heaven, becauſe it falls in the twelfth Houſe of Heaven; for Eclipſes that fall in the twelfth and eighth
+<pb n="4" facs="tcp:172680:8"/>Houſes of Heaven, ſays <hi>Cardan,</hi> are far weaker than thoſe that fall in the Angles; and there ſeems ſome reaſon for it, becauſe thoſe parts of Heaven are dark and obſcure, and bear no manner of Ray to the Aſcendant; from whence the Effects of this Eclipſe will be ſpent in whiſpering, ſuggeſting, <hi>&amp;c.</hi> ſuch things as are to do Miſchief rather than Good.</p>
+            <p>
+               <hi>Saturn</hi> is in the Aſcendant Retrograde, and in Square to <hi>Mars,</hi> who is in Oppoſition to the Tenth; This, according to the Opinion of <hi>Haly, gives Diſcontent, and ſignifies People of a diſſatisfied Principle. It likewiſe,</hi> ſays he, <hi>gives a ſort of Thieves and Robbers, or rather Out-lyers, that live on the ſpoil of others, ſuch as the Iriſh Tories, or the French Booted Apoſtles; and ſomething of the ſame Nature in</hi> England <hi>of late, known by the Name of Regulators, or Deſtroyers of the Government;</hi> and the Effects according to its Nature will work effectually, becauſe they are both Angular, but yet theſe can give no Action, but are Preparatives.</p>
+            <p>Another thing is the <hi>Sun</hi> and <hi>Moon</hi> haſtning to the Zodaical Parallel of <hi>Saturn,</hi> and both of them but juſt ſeparated from his Mundane Parallel; which two Poſitions will have as great a ſhare in the Effects that attend this <hi>Moon's</hi> Eclipſe, and this Quarter alſo, as any in either Figure: And the ra<g ref="char:EOLhyphen"/>ther, becauſe the Moon in the Vernal Figure it ſelf is exactly in a Zodaical Parallel with <hi>Saturn;</hi> theſe give various and different kinds of <hi>Remora's,</hi> grumbling and diſſatisfaction among all ſorts, but eſpecially the Common People, becauſe the Moon is moſt afflicted: And <hi>Bonatus</hi> adviſeth in all Revolutions to conſider the Application of the Sun and Moon, for upon their Rays with the next Planet, doth depend much of the Affairs of that Quarter: So that the Moon being afflicted, ſeems to uſher in thoſe kind of Effects given by <hi>Haly</hi> in theſe Words, <hi>Si Luna jungitur cum Saturno, ſigni<g ref="char:EOLhyphen"/>ficat in rebus multos Labores, Triſtitias &amp; damna quae accedent hominibus ratione Carcerum &amp; ſimilium, &amp; depopulationem Villarum &amp; Civitatum a quibus decedent gentes, &amp; ibant ad alia loca.</hi> If the Moon (ſays he) is joined to <hi>Saturn,</hi> it ſhews great Sorrows, Labours, and loſs that ſhall happen to Mankind by reaſon of Priſons, <hi>&amp;c.</hi> and Depopulation of Cities and Towns, from which they ſhall depart and go to other Places. And how much of this hath been verified in this Quarter, I leave to all and any of thoſe that have read or heard what is of Truth reported, and I ſear too ma<g ref="char:EOLhyphen"/>ny have found true to their Coſt and Sorrow: I do not intend to ſpend much time on this Quarter, becauſe it will ſo ſoon expire after the Publication of theſe few Sheets, and becauſe this Quarter and its Effects are but an Intro<g ref="char:EOLhyphen"/>duction to the reſt of the Year, the latter part of which will be the moſt remarkable. And ſo I come to conſider the Summer Quarter, which begins <hi>June</hi> the 10th at 52 min. and 49 ſec. after 10 of the Clock in the Evening,
+<pb n="5" facs="tcp:172680:8"/>1689, <hi>Ex Tab. Caeroli.</hi> And to that time this Figure following is ſet.</p>
+            <figure>
+               <p>☉ Enters ♋ <hi>die</hi> 10. <hi>Junii</hi> hor. 10. min. 52. <hi>Scrup.</hi> 49. P. M. 1689. <g ref="char:Moon">☽</g> 
+                  <hi>a vacuo ad</hi> ⚹ ♄. ⚹ ☉. ☍ ♃.</p>
+               <p>
+                  <hi>Lat. Lond.</hi>
+               </p>
+            </figure>
+            <p>
+               <table>
+                  <head>Lat. Planet.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>2</cell>
+                     <cell>23</cell>
+                     <cell>
+                        <hi>No.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>So.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>2</cell>
+                     <cell>36</cell>
+                     <cell>
+                        <hi>So.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>1</cell>
+                     <cell>17</cell>
+                     <cell>
+                        <hi>So.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>1</cell>
+                     <cell>43</cell>
+                     <cell>
+                        <hi>No.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>No.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Declin. Planet.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>9</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>2</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>22</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>24</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>☉</cell>
+                     <cell>23</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>19</cell>
+                     <cell>27</cell>
+                  </row>
+               </table>
+            </p>
+            <p>If we look back to the Preventional New Moon, we ſhall find both the Sun and Moon in Square to <hi>Mars,</hi> from the Signs <hi>Gemini</hi> and <hi>Piſces; Mars</hi> being in the Ninth Houſe, and the Sun and Moon in the Eleventh, and <hi>Saturn</hi> in the end of <hi>Libra,</hi> in exact Oppoſition to the Tenth, the Houſe of Honour, and what is obſervable he is there almoſt Stationary on the Radical Place of the Sun in a certain Perſons Nativity, who is now in Tri<g ref="char:EOLhyphen"/>bulation.</p>
+            <p>At the Poſtventional Full Moon we find there the <hi>Moon</hi> to be ſeparating from the Square of <hi>Mars,</hi> and applying to the Body of the <hi>Sun,</hi> and next after that to the Square of <hi>Saturn;</hi> the <hi>Sun</hi> is in <hi>Domo Octava,</hi> and the <hi>Moon</hi> in <hi>Secunda:</hi> and ſhe in that part of Heaven having (at the Full Moon) five degrees of South Latitude, made her within Rays of the Square of <hi>Saturn:</hi> ſo that we may conclude both the Preventional New, and Poſtventional Full Moons do exactly agree with the Figure of the Ingreſs here before us, and do really agree in deſcribing the Circumſtantial Adjuncts likely to attend this Quarter, which is indeed like to be uſhered in with Violence, and violent Actions; and therefore let thoſe that are like to ſuffer therein take care how they manage their tickliſh Fortune, for here is ſuch Work approaching that
+<pb n="6" facs="tcp:172680:9"/>is not to be dallied with; and he that once plays and loſeth, ſeldom or ne<g ref="char:EOLhyphen"/>ver comes to his Stake again.</p>
+            <p>Having already ſaid how the Preventional and Poſtventional New and Full Moon agree with the Figure of the Ingreſs, I come now to inſiſt on the Figure it ſelf, and the various Poſitions, Aſpects, <hi>&amp;c.</hi> therein contained. And the firſt thing to be conſidered is, what is like to be the Effects of this Quarter in the general, for here we find (as perhaps ſome will ſay) no Extraordinary Poſitions to give Violence, becauſe the Sun is in Trine to <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> and <hi>Saturn;</hi> and the Moon in no evil Aſpect, except by her Latitude in Oppoſition to <hi>Jupiter,</hi> from the firſt and ſeventh houſes. And now going to the Sextile of <hi>Saturn</hi> and the <hi>Sun:</hi> all that is (may they ſay) is the Sun in ſquare to <hi>Mars</hi> in the Aſcendent. Alas they that expect to find Cauſes in Mundane Ingreſſes to predict or forſhew Actions of that kind of quality that we muſt now expect, are extreamly deceived and cheated; for in all things of this Nature we muſt firſt conſider the Motion of the Su<g ref="char:EOLhyphen"/>periors <hi>Saturn</hi> and <hi>Jupiter,</hi> for they are the Salt or Leaven of the World, and from their Motion proceeds the variety of thoſe Cauſes which Mankind of<g ref="char:EOLhyphen"/>tentimes ſo ſeverely feels: and indeed it is that, and that only (which is equal in another branch of this Study) to the primary Directions, and theſe In<g ref="char:EOLhyphen"/>greſſes are but like Revolutions that may either abate or aggravate the Di<g ref="char:EOLhyphen"/>rection in its time and quality of Operation: but whether the Revolution or Ingreſs concur or not, the Direction certainly works without it, and therefore we are not beholden to the Figure of the Ingreſs for diſcovering to us the Cauſe of Mutations, Wars, <hi>&amp;c.</hi> but the time when God and Nature think fit to obtrude them upon us.</p>
+            <p>Hence therefore be pleaſed to conſider that there have been three Squares of <hi>Saturn</hi> and <hi>Jupiter,</hi> and the laſt of them was laſt <hi>January, Saturn</hi> being then in Square, and <hi>Jupiter</hi> in Oppoſition to the laſt <hi>Con<g ref="char:EOLhyphen"/>junction</hi> in ♌ in the year 1682/3: and this alſo on the place and ſquare to it of the Conjunction of <hi>Saturn</hi> and <hi>Mars</hi> in <hi>October</hi> preceding; and in the end of <hi>March</hi> laſt there was alſo a Square of <hi>Saturn</hi> and <hi>Mars,</hi> the latter of which was then in Oppoſition to the place of the laſt <hi>Conjunction,</hi> and to the Ecliptical place of the <hi>Moon</hi> in this Figure: and you ſee that altho mat<g ref="char:EOLhyphen"/>ters and things have been working, yet they have not produced any thing material more than preparation for Action and Things of a greater Nature: and this not only in this part of <hi>Europe,</hi> but alſo in <hi>Spain</hi> and <hi>Germany,</hi> and the parts adjacent. There are other things that are to be conſidered in this Judgment, but becauſe they will occaſionally fall in with other matters in this diſcourſe, therefore I omit to mention them, for theſe are the principal that I have already noted, and according to the Method I, and all others that
+<pb n="7" facs="tcp:172680:9"/>pretend to <hi>Aſtrology,</hi> do or ought to proceed in their judging <hi>Mundane Revolutions</hi> concerning <hi>Wars, Plagues, Mutations</hi> of <hi>Government, Abdica<g ref="char:EOLhyphen"/>tion</hi> of <hi>Kings, Plenty, Famine,</hi> &amp;c.</p>
+            <p>Therefore in the firſt place we ſhall confider what may be the Conſe<g ref="char:EOLhyphen"/>quence of this <hi>triple Square</hi> of <hi>Saturn</hi> and <hi>Jupiter,</hi> of which the two firſt were from <hi>Libra</hi> and <hi>Capricorn,</hi> the one an <hi>Equinoctial,</hi> and the other a <hi>Tropical</hi> Sign, but the laſt was from <hi>Scorpio</hi> and <hi>Aquary</hi> two fixed rough ſuccedent Signs; from whence I draw this Judgment, that the firſt two thirds of their Effects ſhall be <hi>quick, noble,</hi> and <hi>glorious,</hi> mighty things ſoon diſpatch'd and done, and the reaſon is, becauſe they were from <hi>Cardi<g ref="char:EOLhyphen"/>nal</hi> Signs; but the laſt part will be ſlow, tedious and full of labour, apt to go ſometimes backwards and ſometimes forward; and variety of ſucceſs attend it. Now for a proof of this let us look back to the Conjunction of the two Superiors in 1623 in <hi>Leo:</hi> and obſerve when they made their Square which was but a ſingle one, and that from the Ends of <hi>Libra</hi> and <hi>Capricorn</hi> in the Month of <hi>February</hi> in the year 1629; and compare that and its Effects then, with theſe three now, and the proſpect of things likely to attend us at this time, and then ſay whether like Cauſes have not like Ef<g ref="char:EOLhyphen"/>fects: for in 1629 the <hi>Hollanders</hi> took the <hi>Hertogenboſch</hi> ſtom the <hi>Spa<g ref="char:EOLhyphen"/>niards,</hi> and alſo many of their Ships; the <hi>Janizaries</hi> quarrel with the Grand <hi>Signior:</hi> the <hi>Polanders</hi> make peace with the <hi>Sweeds:</hi> A Great Diet at <hi>Prague:</hi> the Kings of <hi>England</hi> and <hi>France</hi> make peace, having together de<g ref="char:EOLhyphen"/>ſtroyed the poor Proteſtants at <hi>Rochel;</hi> The <hi>French</hi> make great preparati<g ref="char:EOLhyphen"/>ons of War againſt <hi>Italy:</hi> and in the beginning of the Next year the <hi>King</hi> of <hi>Swedland</hi> did Invade the <hi>Empire,</hi> and took <hi>Francfort</hi> upon <hi>Odor,</hi> and <hi>Lantsberg, &amp;c.</hi> How <hi>England</hi> ſtood affected at that time, and what the Deſigns of the then King were, your own Hiſtories will inform you; I have onely given you thoſe that were forreign. Thus you ſee the ſame Kingdoms and Countries were concerned in Action at that time, as are now, but the Quarrels and pretences different; yet the <hi>Popiſh Crew</hi> then in <hi>Spain, France</hi> and <hi>Germany</hi> were for rooting out the Proteſtants and the <hi>Proteſtant Religi<g ref="char:EOLhyphen"/>on;</hi> and yet we, even we, are for ſuccouring and defending them, tho I thank God I am of another perſwaſion. Theſe things conſidered, are ſufficient to prove the Poſition that I laid down before, that like Cauſes have like Effects, and that the Motion of the Superior Stars are to be conſidered in the publick Affairs of the World, <hi>&amp;c.</hi> But I muſt turn into my way again, this diſcourſe being not exactly pertinent to the Affairs in Hand.</p>
+            <p>
+               <hi>Haly</hi> an old Arabian, and one well acquainted with this kind of Doctrine, tell us, <hi>Significat quod exiſtant rebelles qui adverſabuntur regie, &amp; qui quaerunt regnum; Etian ſignificat Mutationes. &amp; res multas in negotiis regis<g ref="char:punc">▪</g> ſimili<g ref="char:EOLhyphen"/>ter
+<pb n="8" facs="tcp:172680:10"/>&amp; in Lege:</hi> ſays he, the Square of <hi>Saturn</hi> and <hi>Jupiter</hi> ſignifies that people ſhall riſe againſt their King, and endeavour to take the Kingdom; and that it ſhews various and many Mutations in the King's Affairs, and alſo in the Law. So that it ſeems in thoſe Eaſtern Countries, even there too where their Kings are really Arbitrary, ſuch Accidents do uſe to happen upon ſuch Configurations, as well as in theſe Northern parts where Government is by Compact and Agreement. His word <hi>Rebels,</hi> is a term uſed in thoſe Coun<g ref="char:EOLhyphen"/>treys as well to thoſe who <hi>regulate</hi> the <hi>abuſes</hi> of Government, that prevent the ſubverſion of Kingdoms and the ruine of <hi>Religion,</hi> as to thoſe that in<g ref="char:EOLhyphen"/>deed are ſo: and no doubt but that Man that calls himſelf <hi>King,</hi> or rather <hi>Tyrant</hi> of <hi>France,</hi> would look upon it as a great Injury done to him, to be called to an account for all his <hi>Villanies, Murders, Perjuries, breach</hi> of <hi>Oaths, Promiſes, deſtroying</hi> of his <hi>Subjects, diſturbing</hi> the <hi>peace</hi> of <hi>Europe, burning Towns</hi> without any Cauſe, <hi>hanging</hi> his <hi>Subjects,</hi> ſending others to the <hi>Gal<g ref="char:EOLhyphen"/>leys,</hi> while others of them are <hi>ſtarving in Jailes,</hi> and all for being Prote<g ref="char:EOLhyphen"/>ſtants: I ſay, perhaps this Man would think himſelf injured, and would be apt to call them <hi>Rebels</hi> that ſhould doe it, when indeed it would be a good Service, and a work of merit to eaſe the <hi>groaning Slaves</hi> of their Burden, the Earth of a <hi>Tyrant,</hi> and the Princes of <hi>Europe</hi> of a <hi>Perfidious</hi> and <hi>treache<g ref="char:EOLhyphen"/>rous Neighbour.</hi>
+            </p>
+            <p>This Square of <hi>Saturn</hi> and <hi>Jupiter</hi> was attended by a Conjunction of <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> and <hi>Mars</hi> in <hi>October</hi> laſt, of which <hi>Haly</hi> ſays thus, <hi>Si quando Mars Junctus fuerit cum Saturno, ſtruet qui liber alteri fraudes &amp; deceptiones, &amp; erunt inter homines percuſſiones &amp; vulnera:</hi> that when <hi>Saturn</hi> and <hi>Mars</hi> ſhall be conjoined, it ſhews much Fraud and Deceipt, and that there ſhall be fighting and wounds, eſpecially if they meet in a humane Sign. And this Conjunction was ſucceeded by a Square of them about the end of <hi>March,</hi> from the Signs of <hi>Scorpio</hi> and <hi>Aquary,</hi> and alſo at the very time of that great <hi>Central Eclipſe</hi> of the <hi>Moon</hi> in <hi>Libra,</hi> which was near the place of <hi>Saturn</hi> at the time of the ſecond Square of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>July,</hi> 1688. All Authors do agree, and indeed Experience can plead for it, that ſuch Crowds of Malignant Poſitions do naturally give miſchief and trouble to <hi>Mankind, Effuſion</hi> of <hi>Blood, Deſtruction</hi> of Great and <hi>Noble Men, Wars, Peſtilence,</hi> and all Manner of Violence that attends ſuch kind of Af<g ref="char:EOLhyphen"/>fairs and Tranſactions, as you that pleaſe may read more at large in <hi>Guido Bonatus, pars quart. cap.</hi> 57. and <hi>cap.</hi> 77. and alſo in <hi>Origanus de effecti<g ref="char:EOLhyphen"/>bus.</hi> And thus much for thoſe things that are paſſed by, and yet in force to produce ſomething to come. I come now to the Figure it ſelf, and where I left off.</p>
+            <pb n="9" facs="tcp:172680:10"/>
+            <p>The <hi>Moon</hi> is at this Ingreſs upon the place of the laſt Conjunction, and in the ſeventh Houſe, and by her Latitude in Oppoſition to <hi>Jupiter.</hi> This ſhews the Common ſort not to be pleaſed with ſome things done by thoſe that are ſignified by that Star: but <hi>Jupiter</hi> is in trine to the <hi>Sun,</hi> he hath ſecured himſelf from what can appear from thence.</p>
+            <p>But here we alſo find the <hi>Sun</hi> and <hi>Mars</hi> in an exact Square from <hi>Aries</hi> and <hi>Cancer,</hi> and this not only Zodiacal, but a Mundane Square likewiſe, and from two of the moſt principal Signs in the whole Zodiack, and from Angles beſides. This can be conſtrued to give nothing more proper to its Nature then Action and Hoſtility both by <hi>Sea</hi> and <hi>Land;</hi> and therefore a<g ref="char:EOLhyphen"/>bout the time of the Ingreſs we may hear of ſome conſiderable Action per<g ref="char:EOLhyphen"/>formed by the <hi>Dutch</hi> or <hi>Germans,</hi> or both, againſt the <hi>French Tyrant;</hi> and alſo about the ſame time expect the ſame Succeſs of the <hi>Engliſh</hi> and <hi>Dutch Fleets</hi> by <hi>Sea,</hi> againſt him and his wicked Accomplices, that are endea<g ref="char:EOLhyphen"/>vouring to <hi>dip</hi> the World in Blood, and alſo to make <hi>Slavery</hi> and <hi>Tyranny hereditary.</hi> If you will believe our Friend <hi>J. Gadbury,</hi> he tells us in his Al<g ref="char:EOLhyphen"/>manack for 1689, that it promiſeth <hi>Tempeſts</hi> and <hi>Hurricanes;</hi> but the Fel<g ref="char:EOLhyphen"/>low will ſo lie, eſpecially ſince he turned <hi>Papiſt,</hi> that he is not to be believed. However perhaps it may, by inverting his Notion, prove true, by appearing in <hi>Hurricanes</hi> &amp; <hi>Storms</hi> among the <hi>Papiſts,</hi> and that Curſed Faction, of which he is believed to be a worthy Member to his Reputation, and their Advantage.</p>
+            <p>We alſo find here that <hi>Mars</hi> is in the Aſcendent, and of ſuch a Poſition when he is afflicted, as here <hi>Haly</hi> ſays, (ſpeaking of Man<g ref="char:EOLhyphen"/>kind before) <hi>Creſcent inter eas rixae, &amp; diſcordiae, &amp; ſe vulnerabunt, &amp; percutient, &amp; ſanguinem fundent, &amp; propter hoc accident eis magnum damnum &amp; malum.</hi> That there ſhall be Quarrels and Diſcords, from whence ſhall ariſe Blows and Wounds, and the Effuſion of Blood; and for this reaſon there ſhall happen to them (meaning Mankind) much damage and loſs. A <hi>Planet Angular</hi> hath indeed much more Power to perform what he ſignifies by being in an Angle than in the other Houſes, and of the Angles the firſt and tenth is the chiefeſt, and therefore he may be allowed by his Poſition there to give both ſpeed and violence to his Effects.</p>
+            <p>If we conſider the <hi>Moon,</hi> we ſhall really find her in the ſeventh Houſe, ſeparated from the Sextile of the Sun, and applying to the Oppoſition of <hi>Jupiter</hi> and the Sextile of <hi>Venus.</hi> The Moon is Lady of the fifth Houſe the Angle of <hi>Embaſſies, &amp;c.</hi> and in the ſeventh the Houſe of <hi>Wars</hi> and <hi>Con<g ref="char:EOLhyphen"/>teſts. Jupiter</hi> is Lord of the Tenth, and juſt turned Retrograde in his own Houſe <hi>Piſces,</hi> and is in a Zodiacal Parallel with <hi>Saturn</hi> likewiſe. This ſeems to ſhew ſome new thing on Foot, about making ſome League, or entering into, or upon ſome new Project of <hi>War,</hi> which is at preſent wholly un<g ref="char:EOLhyphen"/>known:
+<pb n="10" facs="tcp:172680:11"/>but the advantage in the Conſequence of it will be conſiderable, and it ſeems deſigned for the <hi>mighty States of Holland and their Confede<g ref="char:EOLhyphen"/>rates;</hi> and this ſeems to be managed under ſome other kind of pretences then what is intended, perhaps it may be ſome Affairs that may concern the <hi>King of Denmark:</hi> for the Moon here is on the Radical place of his <hi>Jupi<g ref="char:EOLhyphen"/>ter;</hi> and <hi>Mars</hi> here on the Radical place of his <hi>Venus;</hi> and both <hi>Sun</hi> and <hi>Venus</hi> here on the Cuſp of his Radical <hi>Mid-Heaven.</hi> But this I am ſure will be conſiderable, for ſo many Planets do not uſe to be Angular and in Cardinal Signs for nothing, and eſpecially when ſuch Applications and Po<g ref="char:EOLhyphen"/>ſitions attend them. And this brings me to the Conſideration of what Coun<g ref="char:EOLhyphen"/>tries, and Nations, are like to be concerned in the Tranſactions of this Year, and who are like to be the Sufferers thereby.</p>
+            <p>In the Figure we find this Square is from <hi>Aries</hi> and <hi>Cancer:</hi> under <hi>Aries</hi> are <hi>England, France, Germany, Denmark, &amp;c.</hi> under <hi>Cancer</hi> are <hi>Scotland, Holland, Zealand, &amp;c.</hi> and from theſe Kingdoms and Countries will be the firſt appearance of the Action of this Summer; in <hi>Cancer</hi> we find the <hi>Sun</hi> in Trine to <hi>Jupiter,</hi> in Sextile to the <hi>Moon,</hi> and in Conjun<g ref="char:EOLhyphen"/>ction with <hi>Venus;</hi> now all allow that <hi>Scotland</hi> and <hi>Holland</hi> are under <hi>Can<g ref="char:EOLhyphen"/>cer,</hi> then are their confederates very well ſignified by <hi>Jupiter, Venus,</hi> and the <hi>Moon,</hi> who are all ſtrong and in a good Condition. <hi>Mars</hi> is in <hi>Aries</hi> the Aſcendant of <hi>France,</hi> and there in friendly Rays with none, but ſtands ſingly alone: this conſidered with the two Oppoſitions of <hi>Saturn</hi> and <hi>Mars</hi> [of which more hereafter when I come to particulars that happen within the Compaſs of this Quarter] do plainly ſhew that thoſe that eſpouſe the French Quarrel, are like to feel the fury of this Year's Action with a Witneſs.</p>
+            <pb n="11" facs="tcp:172680:11"/>
+            <p>And ſo I come to conſider the Sun's entrance into <hi>Libra,</hi> which is this Year on <hi>September</hi> the 12th, at 25 minutes, and 25 ſeconds, After<g ref="char:EOLhyphen"/>noon, <hi>per Tab. Carolin.</hi>
+            </p>
+            <figure>
+               <p>
+                  <hi>Sol</hi> in <hi>Libra Sep.</hi> 12. hor. 0. min. 23. ſec. 25. P.M. 1689. Luna vacua.</p>
+               <p>
+                  <hi>Lat. Lord.</hi>
+               </p>
+            </figure>
+            <p>
+               <table>
+                  <head>Lat. Planet.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>2</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>No.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>0</cell>
+                     <cell>58</cell>
+                     <cell>
+                        <hi>So.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>4</cell>
+                     <cell>22</cell>
+                     <cell>
+                        <hi>So.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>1</cell>
+                     <cell>17</cell>
+                     <cell>
+                        <hi>So.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>0</cell>
+                     <cell>59</cell>
+                     <cell>
+                        <hi>No.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>So.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Declin. Planet.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>10</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>14</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>9</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>15</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>0</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>28</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>☉</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Preventional New Moon is not much to be taken notice of at this Ingreſs, altho an Eclipſe of the Sun at the ſame time, but the Poſtventional Full Moon is remarkable, becauſe attended with a Retrograde Oppoſition of <hi>Saturn</hi> and <hi>Mars,</hi> and a <hi>Central Eclipſe</hi> of the <hi>Moon</hi> at the ſame time in <hi>Aries,</hi> both which will much influence the Affairs of this Quarter; for if we pleaſe to look back we ſhall find that <hi>Saturn</hi> and <hi>Mars</hi> came to an Oppoſition from the beginning of <hi>Taurus</hi> and <hi>Scorpio,</hi> in the beginning of <hi>Auguſt</hi> laſt, and this upon a New Moon, and at ſuch a time when the <hi>Sun</hi> and <hi>Moon</hi> were upon the place of the <hi>Laſt Conjunction,</hi> going to the Op<g ref="char:EOLhyphen"/>poſition of <hi>Jupiter;</hi> and now <hi>Mars</hi> falling Retrograde, comes to a ſecond Oppoſition, upon the 20th of <hi>September,</hi> by the <hi>Felſinean Ephemerides,</hi> and on the 19th by <hi>Argol:</hi> And they alſo make a third Oppoſition by their direct Motion again from the ſame Signs in the Month of <hi>January</hi> next; and of the three that will be the moſt pernicious, eſpecially to the Kingdom of <hi>Ireland</hi> [the Judgment of which I ſhall refer to my next Year's Alma<g ref="char:EOLhyphen"/>nack, as the moſt proper place for it]: but theſe two to the now unſucceſs<g ref="char:EOLhyphen"/>ful Deputy-Governour of it, they both being upon the place and oppoſite place of his <hi>Radical Sun,</hi> and alſo in Square to his <hi>Radical Moon.</hi>
+            </p>
+            <p>It hath been the Cuſtom, or rather the Faſhion, of ſome of our Profeſ<g ref="char:EOLhyphen"/>ſion, when they were to give a Judgment on ſuch a Poſition, to pretend to
+<pb n="10" facs="tcp:172680:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:172680:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:172680:13"/>give the exact Time of the <hi>Conjunction</hi> or <hi>Oppoſition,</hi> and then ſet a Figure to that Time, from whence they were uſed to give their Opinions of its Ef<g ref="char:EOLhyphen"/>fects. But how irrational and improbable this is, all Men know that un<g ref="char:EOLhyphen"/>derſtand Calculation, and know the difference of Tables that give the Moti<g ref="char:EOLhyphen"/>ons; and that it is impoſſible to expect any two of them to agree to two or three hours in the Motions of the Superiors: which if ſo, then it is a piece of folly to pretend to ſet a Figure for the time of the Oppoſition, <hi>&amp;c.</hi> Therefore I ſhall give my Judgment of it from the Figures of the Lunations preceding, as the moſt probable and rational way in my Opinion; and I am ſure it is the certaineſt way that can he propounded, and the rather becauſe it is at the Time of the <hi>Poſtventional full Moon,</hi> according to the Direction of the <hi>Great Ptolomy. Lib.</hi> 2. <hi>cap.</hi> 9. and his Authority is ſufficient for me.</p>
+            <p>The time of the Lunation preceding this Oppoſition being calculated, happens on <hi>September</hi> the 19th at 44 min. paſt 2 of the Clock in the morn<g ref="char:EOLhyphen"/>ing; ſo that any one that pleaſeth to ſet the Figure, may make uſe of that Time without further trouble, and it is the time alſo of a very great <hi>Eclipſe</hi> of the <hi>Moon:</hi> ſo that the <hi>Eclipſe</hi> tells the World there are great things of Ruine and Deſtruction to be done, and the Oppoſition of <hi>Mars</hi> and <hi>Saturn</hi> tells us where and what.</p>
+            <p>The Firſt thing I ſhall obſerve in the Figure, is, that all the Planets are op<g ref="char:EOLhyphen"/>poſed; for <hi>Jupiter</hi> is in Oppoſition to <hi>Venus, Mars</hi> to <hi>Saturn,</hi> the Moon to the Sun and <hi>Mercury,</hi> and <hi>Jupiter</hi> and <hi>Venus</hi> do both behold <hi>Saturn</hi> and <hi>Mars</hi> by a Mundane <hi>Square.</hi> Hence you ſee the Superior Bodies and Motions ſeem to have fitted out this Time for ſome ſtrange <hi>Cataſtrophe</hi> in the Affairs of the World, and to turn up by the Roots the <hi>Tyranny</hi> and <hi>Opreſ<g ref="char:EOLhyphen"/>ſion</hi> which the <hi>Son</hi> of <hi>Perdition,</hi> by help of his <hi>dark Lanthorn Councils,</hi> and <hi>booted Apoſtles,</hi> hath endeavoured to plant and propagate not only in his own Land, but in ours alſo, by the help of his <hi>Friends:</hi> But bleſſed be God for their Diſappointment, and the Ruine of that <hi>Cut-Throat</hi> Deſign, by which we muſt all have fell, or elſe declared for that <hi>Villanous Lying Doctrine,</hi> which is <hi>blaſphemouſly term'd Religion,</hi> Popery I mean.</p>
+            <p>The <hi>Eclipſe</hi> falls in the eighth Houſe, called the Houſe of Death; it is an obſcure Angle, and hath no Affinity with the Aſcendent, and the place of it is governed by <hi>Mars</hi> who is in the terms of <hi>Venus,</hi> and ſhe Lady of the Angle following the Eclipſe, and upon the place of the great Conjunction in <hi>Leo:</hi> This Eclipſe falls in <hi>Aries</hi> an <hi>Equinoctial Sign,</hi> and its Governour is in <hi>Taurus</hi> an earthly fixed Sign, in Oppoſition to <hi>Saturn,</hi> which makes its Effects rugged and alſo durable, and will be managed according to the nature of <hi>Saturn</hi> and <hi>Mars. Junctine</hi> ſays an Eclipſe of the <hi>Moon</hi> in the firſt ten degrees of <hi>Aries, Febres futuras,
+<pb n="13" facs="tcp:172680:13"/>aedium ineendia, combuſtiones nemorum; ac aeris ſiccitatem oſtendit;</hi> that it gives Feavers, burning of Houſes and Woods, and a great Drought.</p>
+            <p>But <hi>Ptolomy</hi> tells us, that it ſignifies the Change and <hi>Alteration</hi> of <hi>Religion</hi> and <hi>Religious Cuſtoms.</hi> And it is my Opinion that the Effects of this <hi>Eclipſe</hi> will be ſpent chiefly on the <hi>Kingdom</hi> of <hi>France,</hi> and the Dominions thereunto belonging; for all the Configurations of this Year have more or leſs to do in the Nativity of that King, and he at this time under the Effects of a malicious Revolution. But more of theſe things when I come to ſpeak in particular to Perſons and Things under the Influence of theſe Motions.</p>
+            <p>At this Lunation all the Planets are Peregrine except <hi>Mercury,</hi> who is in his own terms, and not one of them in an Angle, but all either in <hi>Cadent</hi> or <hi>Succedent Houſes,</hi> but <hi>Mars</hi> and <hi>Saturn</hi> in particular are Cadent in the ninth and third Houſes, <hi>ſi fuerit in nona, ſignificat de<g ref="char:EOLhyphen"/>trimentum Religioſorum, Largarum Religionum, ut ſunt Epiſcopi, Ar<g ref="char:EOLhyphen"/>chiepiſcopi Cardinales, &amp; ſimilia. Bonatus</hi> ſpeaks thus of a <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Mars</hi> in the ninth, and you may expect the ſame from an <hi>Oppoſition</hi> with very little rebate.</p>
+            <p>
+               <hi>Meſſahala,</hi> ſpeaking of ſuch an Affair, commands us to obſerve <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> and <hi>Mars;</hi> for, ſays he, if <hi>Mars</hi> applies to <hi>Saturn,</hi> and commits his Rays and Diſpoſition to him, it ſignifies that there ſhall be ſtrange, grievous and durable Afflictions upon the Earth and among Mankind. <hi>Multiplicabuntur Latrocinia &amp; Contentiones,</hi> &amp;c. <hi>Cap.</hi> xxxvii. <hi>de Revolut. Annor. Mundi.</hi> The Intent of <hi>Meſſahalah</hi> in that place, is to ſhew that when <hi>Mars</hi> is applying to <hi>Saturn,</hi> they being the only two Corroſive Stars, ſtir up a violent and an unuſual Ferment not only in the Minds and Paſſions of Men, but alſo in all things of Nature, becauſe <hi>Mars</hi> hath the Power of acting or agitating in a peculiar manner on thoſe condens'd, compact, and acid Principles of old <hi>Saturn;</hi> it is like the Effect of Salts and Acids being put together, which cauſe a violent Ebu<g ref="char:EOLhyphen"/>lition, and after that's over, it produceth a <hi>Tertium Neutrum,</hi> ſomething that is like neither of them. The nature of <hi>Mars</hi> is well deſcribed by <hi>P. J. Faber,</hi> who ſaith, <hi>Mars veluti Sol alter Calorem ſummum rebus impertit, &amp; ſuo inteſtiſſimo Caloro vitali perficit, &amp; maturat crudum omne &amp; frigidum.</hi> So that we are not to believe this kind of Effect that <hi>Meſſahalah</hi> ſpeaks of, to proceed from an empty Ignote Notion, but from a real and rational <hi>Philoſophick Principle</hi> and <hi>Quality;</hi> and then this Application, if we conſider it, is by <hi>Oppoſition</hi> the <hi>worſt</hi> of <hi>Aſpects;</hi> and by <hi>Retrograde</hi> Motion, which doth much increaſe the Maligne Effects of the Aſpect, the Application and whatſoever doth depend there<g ref="char:EOLhyphen"/>on,
+<pb n="14" facs="tcp:172680:14"/>which are <hi>Devaſtations</hi> and <hi>Ruine</hi> of <hi>Countries, Pleets</hi> and fighting by <hi>Sea Armies</hi> and <hi>Deſtruction</hi> by <hi>Land, Deceit</hi> and <hi>Treachery</hi> one with another; and beſides all this, <hi>private Murders</hi> when violent Aſpects happen upon <hi>Lunations,</hi> &amp;c. But there is one thing more to be obſerved, and that is, the Parts of Heaven that they are in, which are violent, for they both culminate with violent fixed Stars [perhaps there may be ſome that may carp at the word <hi>both culminate,</hi> and therefore let all ſuch know it is a proper Expreſſion, and can be vindicated with a very little Labour and Trouble] and alſo in violent Parallels: both which do aggravate and increaſe the Malignant Quality of theſe two Superiors, <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> and <hi>Mars;</hi> the one in <hi>Taurus</hi> culminates with the Jaw of the Whale of the nature of <hi>Saturn,</hi> the Head of <hi>Meduſa</hi> of the nature of <hi>Saturn</hi> and <hi>Jupiter,</hi> and alſo the <hi>Pleiades;</hi> and the other with the Stars in the beginning of the <hi>Scorpion,</hi> as the <hi>Lucida Corona,</hi> the <hi>Stellae Nebuloſae,</hi> the <hi>Lanx Auſtralis &amp; Borealis.</hi> And thus much in general for the malig<g ref="char:EOLhyphen"/>nant part of the Effects of this Eclipſe of the <hi>Moon</hi> in <hi>September.</hi>
+            </p>
+            <p>As for the Benefick Influence thereof I can ſay very little to it, for the two Fortunes from whom all the <hi>Balſam</hi> is expected to heal, and alſo corroborate, are not only in Oppoſition one to another, and in a Mun<g ref="char:EOLhyphen"/>dane Square to <hi>Saturn</hi> and <hi>Mars,</hi> but alſo upon the place and the Op<g ref="char:EOLhyphen"/>poſite Point of the laſt great <hi>Triple Conjunction</hi> in <hi>Leo,</hi> in active parts of Heaven, and in violent Parallels likewiſe: From whence, and all which conſidered together, I can ſee but little Rebate from what the Oppoſition of <hi>Saturn</hi> and <hi>Mars</hi> in fixed Signs promiſeth at the time of this Eclipſe.</p>
+            <p>I ſhall now ſpeak a word or two to the Ingreſs it ſelf, and ſo come to Particulars, <hi>&amp;c.</hi> But before I enter on that, you muſt give me leave to put you in Mind of that Oppoſition of <hi>Saturn</hi> and <hi>Mars</hi> from the be<g ref="char:EOLhyphen"/>ginning of <hi>Taurus</hi> and <hi>Scorpio</hi> by direct Motion in the beginning of <hi>Auguſt,</hi> the <hi>Sun</hi> and <hi>Moon</hi> at that time being upon the place of the laſt Conjuction of <hi>Saturn</hi> and <hi>Jupiter.</hi> At the time of this New Moon, which is the fifth ſo <hi>Auguſt,</hi> at 24 minutes paſt 3 of the Clock in the Morning, the two Lights are appproaching the Horoſcope in <hi>Leo,</hi> and the two Malevolents in the tenth and fourth Houſes, all Angular, and in<g ref="char:EOLhyphen"/>deed ſo are all the Planets except <hi>Venus.</hi> The Effects of this Oppoſiti<g ref="char:EOLhyphen"/>on will have the ſame tendency that the other before mentioned will have, and the one will increaſe the Force and Vigor of the other, and therefore I have given my Judgment on the ſecond only, becauſe at that time the force of both will be in operation. And <hi>Bonatus</hi> in par. 4. cap. 87. ſpeaking of a Conjunction of <hi>Saturn</hi> and <hi>Mars</hi> in the tenth, ſays, <hi>Si fuerit in decima ſignificat detrimentum Regum &amp; Magnarum &amp; De<g ref="char:EOLhyphen"/>ſtructionem
+<pb n="15" facs="tcp:172680:14"/>eſſes eorum &amp; Mortem Magni Regis;</hi> if, ſays he, it was in the tenth, it ſignifies the Detriment of Kings and Great Men, and their Deſtruction, and alſo the Death of a great King. And it is certain that as the Affairs of <hi>Europe</hi> now appear, theſe things are probable to happen in divers <hi>Countries</hi> and <hi>Kingdoms</hi> of <hi>Europe.</hi> And tho our Author ſpeaks of a Conjunction in that part of Heaven; yet we ſhall find that this Op<g ref="char:EOLhyphen"/>poſition will be attended with ſuch like Effects <hi>ad unguem.</hi> And there<g ref="char:EOLhyphen"/>fore you ſhall hear what the ſame Author ſays of <hi>Mars</hi> unfortunately placed in the tenth Houſe, as we have in the 85 Cap. <hi>Et ſi fuerit in deci<g ref="char:EOLhyphen"/>ma ſignificat Tribulationem venturam Ruſticis, atque popularibus ex parte Regis, &amp; Divitum ac Potentum; &amp; ſignificat vulnera &amp; percuſſiones gladio<g ref="char:EOLhyphen"/>rum at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> flagella &amp; Anguſtiam ex eis, atque Carcerem &amp; penuriam ſeu indigentiam victualiam, &amp; ſignificat Bella, &amp; Contentiones de rebus quae non ſunt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> illorum qui petunt eas, nec pertinent ad eos:</hi> if (ſays he) it is in the tenth, as here, it ſignifies Sorrow and Tribulation ſhall come to the common People by reaſon of their <hi>King</hi> and great Men; and it alſo ſig<g ref="char:EOLhyphen"/>nifies <hi>Wars</hi> and <hi>Contentions</hi> for things that are not theirs, neither do belong to them. So that we ſee it is not only from the Rays thoſe two there are conjoyn'd, but from <hi>Mars</hi> alſo in that Angle ill placed, or rather purely malefick; for <hi>Mars</hi> cannot be worſe placed then in Oppoſition to <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> and both of them <hi>Peregrine,</hi> and neither of them in Signs really agreeable to their own Natures.</p>
+            <p>But beſides all this, <hi>Mars</hi> doth more immediately ſignify ſome <hi>King</hi> or other (or at leaſtwiſe one that thinks himſelf to be ſo) becauſe he is Lord of the tenth Houſe, the Horoſcope of <hi>Kings</hi> and great Men in gene<g ref="char:EOLhyphen"/>ral; and in the Genethliacal Part of Aſtrology it is obſerved that <hi>Mars</hi> in the Aſcendent <hi>Peregrine</hi> and afflicted, always ſignifies a Man that is <hi>bold, angry, quarelſom,</hi> and yet a <hi>Coward,</hi> and with theſe Qualifications he is generally <hi>poor</hi> and <hi>needy.</hi> And ſo I have done with the Oppoſitions of <hi>Saturn</hi> and <hi>Mars</hi> in general; only obſerve,</p>
+            <p>
+               <hi>Firſt,</hi> That all the Effects of theſe two Oppoſitions, and alſo the third, will wholly be directed and guided by the ſame Rule, and to the ſame End as the Conjunction of them in <hi>November</hi> 1688 was intended; and upon every remarkable Aſpect in theſe Signs, or <hi>Leo</hi> and <hi>Aquary,</hi> which are in the ſame Quadrangle, you will ſee or hear ſomething remarkable done or acted in order to the great Work till it is over and ended, which will not be quickly.</p>
+            <p>
+               <hi>Secondly,</hi> Obſerve, That it was after a Conjunction of <hi>Saturn</hi> and <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> in <hi>Leo, Anno</hi> 1623, that the <hi>Papiſts</hi> uſed all their Endeavours to bring in that moſt abominable Perſwaſion into <hi>England</hi> under the Noti<g ref="char:EOLhyphen"/>on
+<pb n="14" facs="tcp:172680:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:172680:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:172680:16"/>of Religion, and to ſet it up by the Power of Law, upon which En<g ref="char:EOLhyphen"/>deavours of theirs, there began and continued ſo cruel a War in this Na<g ref="char:EOLhyphen"/>tion between two Parties, the one to bring in <hi>Popery,</hi> and the other to keep it out, that the like had not been known in many Ages; and now under ſuch a Conjunction as that was, we have the like thing attempted over again, and it had ſucceeded too had not the <hi>Almighty</hi> appeared for us in a wonderful manner.</p>
+            <q>
+               <l>Twit us no more about your Forty One;</l>
+               <l>For they that twitted us, have us outdone.</l>
+            </q>
+            <p>Again, obſerve, that when <hi>Saturn</hi> and <hi>Mars</hi> came to a Conjunction in <hi>Aquary</hi> in 1640, in Oppoſition to the place of that Conjunction in 1623, [there was indeed three Conjunctions of <hi>Saturn</hi> and <hi>Mars</hi> then, as now three Oppoſitions] immediately after the next Oppoſition that moſt horrid Murder of the <hi>Proteſtants</hi> in <hi>Ireland</hi> was acted, which be<g ref="char:EOLhyphen"/>gan on the 23d of <hi>October</hi> 1641, and laſted a Month; in which Action the <hi>Bloody Papiſts</hi> uſed ſuch Barbarities, that one would think it could not enter into the Heart or Mind of Mankind to think or contrive; but it is ſuch a Religion, that if the <hi>Prieſt</hi> ſays they muſt murder their <hi>Fathers, Mothers, Brothers</hi> or <hi>Siſters,</hi> being <hi>Proteſtants,</hi> they think their diſobeying him will incur Damnation, ſuch is the Ignorance and Folly of thoſe who are <hi>Bigots</hi> to <hi>Prieſts.</hi> I ſay in this <hi>Maſſacre</hi> they ripped up Women with Child, and cruely murdered the <hi>Infants;</hi> ſet Men up to the Neck in Earth, and play'd Bowls at their <hi>Heads,</hi> and when they had done, leave them to die at leiſure; ſtrip <hi>Men</hi> and <hi>Women</hi> and drive them naked into the Field being Winter, and there let them ſtarve with Hunger and Cold; take <hi>fat Men</hi> and kill them, and with their <hi>Fat</hi> make <hi>Candles</hi> to ſay <hi>Maſs</hi> by; murder the <hi>Parents</hi> before the <hi>Children</hi> to terrify them, and the <hi>Children</hi> before the <hi>Parents</hi> to do the like: go into <hi>Cities</hi> and commit all the <hi>Villanies</hi> and <hi>Outrages</hi> imaginable, and then take with them what number of both <hi>Sexs</hi> they pleaſed to <hi>hang, murder, torture,</hi> or otherwiſe to uſe them, as they according their <hi>Iriſh Senſe, Diſcretion</hi> and <hi>Mercy</hi> thought convenient; and in this Condition were the <hi>poor Proteſtants</hi> in that Kingdom at that time for the ſpace of a Month and more, till they had murdered about <hi>two hundred thouſand.</hi> And this is the Condition that poor Nation is now in again at this time, being fallen into the Hands of a mercileſs Enemy, full of <hi>Rage, Barbarity</hi> and <hi>Revenge,</hi> till God in his Mercy and good time will deliver them, I hope by the ſame Hand that he hath delivered us. And aſſure your ſelves that
+<pb n="17" facs="tcp:172680:16"/>if ever you permit <hi>Popery</hi> to enter into this Nation again [for I ſee ſome are whining after it] you muſt expect no other Favour, Mercy nor Kindneſs from their <hi>Prieſts</hi> and Governors [bind them never ſo ſecure by Oaths and Promiſes] but <hi>Fire, Fagot, Gibbet,</hi> and all other kind of <hi>Tor<g ref="char:EOLhyphen"/>tures, Ruins, Dragooning,</hi> and whatever the <hi>Iriſh Papiſts</hi> gave the <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> in 1641: ſo that if you like it on thoſe terms, you may as ſoon as you pleaſe ſubmit, <hi>fetter</hi> your ſelves, and lay your <hi>Throats</hi> to the <hi>Knife,</hi> for that muſt be the Effect and Conſequence of bringing in <hi>Popery,</hi> a <hi>Po<g ref="char:EOLhyphen"/>piſh Government</hi> and <hi>Papiſts</hi> into <hi>England;</hi> tho perhaps many may believe that they can bring it in ſo far as they pleaſe and no farther; but let none truſt to that, for we have of late ſeen a large and almoſt a dear-bought Experiment.</p>
+            <p>I come now to the Revolution and Ingreſs of the <hi>Sun</hi> into <hi>Libra,</hi> to ſpeak ſomething to that, and ſo haſten to what I have promiſed and deſign'd. In that Figure we may obſerve that the <hi>Moon</hi> is ſeparated from the Square of the <hi>Sun</hi> and <hi>Mercury,</hi> and Sextile of <hi>Saturn</hi> and Trine of <hi>Mars,</hi> and is now by her Latitude in exact Mundane Square to <hi>Saturn</hi> and <hi>Mars:</hi> which ſhews the Poſition to be violent, and ſomething agreeable to the other Figures that we have before conſidered, and <hi>Jupiter</hi> upon the oppoſite place of the laſt great <hi>Conjunction</hi> in 1682, and in this Figure in an exact Mundane Parallel both with <hi>Saturn</hi> and <hi>Mars;</hi> and in Oppoſition to <hi>Mars,</hi> who is on the Cuſp of the ſecond in a certain Perſons Nativity, and the <hi>Sun</hi> here in Oppoſition alſo to his <hi>Part</hi> of <hi>Fortune;</hi> hence we may judg,</p>
+            <p>
+               <hi>Firſt,</hi> The Breach of ſome private Treaty, becauſe <hi>Saturn</hi> and <hi>Mars</hi> are in the Houſes of <hi>Embaſſies, Leagues,</hi> and <hi>Ambaſſadors;</hi> the <hi>Sun</hi> and <hi>Mercury</hi> in the ninth Houſe the Angle of Journeys, and the <hi>Moon</hi> on the Cuſp of the ſecond in <hi>Capricorn,</hi> a <hi>Moveable, Tropical, Cardinal</hi> Sign; it alſo may as probably be the diſcovery of ſome <hi>Traiterous De<g ref="char:EOLhyphen"/>ſign</hi> that hath been going on for ſome time: but this I dare aſſert, that about the time of the Ingreſs, or a little after it, you will certainly hear of the Diſſolution of ſome Treaty, or the end of ſome Debate without Effect, that was carrying on in order to ſome great Affairs: or elſe ſome Treachery and Villany diſcovered about the Affairs of <hi>Ireland,</hi> that hath been long in Agitation and contriving, and now at laſt proves Abortive and of no Service to them that did endeavour and attempt the effecting of that precious Work; and all this ſeems the rather probable, becauſe the <hi>Moon</hi> did laſt of all ſeparate from <hi>Mars</hi> in the fifth Houſe Retrograde and afflicted. Beſides, this will divide the Councils and confound the Pro<g ref="char:EOLhyphen"/>jects of an evil ſort of People, that are reſtleſs and contriving the Ruin of
+<pb n="18" facs="tcp:172680:17"/>all thoſe that are not of their wicked Perſwaſion, and this ſeems to attend them as a Curſe intailed on their Endeavours and Attempts in general, and is like to continue; for the <hi>Sun,</hi> who is here in a particular way a Significator of them, is in Conjunction with <hi>Mercury,</hi> and they both going to a Zodiacal Parallel with <hi>Saturn</hi> and <hi>Mars.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> We may judg that a certain Prince his Affairs go on very evil, his <hi>Treaſure</hi> very <hi>low,</hi> and his <hi>Friends</hi> grow fewer than ever; for <hi>Saturn</hi> in the eleventh Houſe hath Signification of the Treaſury an <hi>Ex<g ref="char:EOLhyphen"/>chequer</hi> of <hi>Princes,</hi> their Council and Aſſiſtants, Supplies of Mony, and thoſe <hi>Noble Men</hi> that attend their Courts; now <hi>Saturn</hi> is here their Sig<g ref="char:EOLhyphen"/>nificator and in a very ill Condition, for he is Perigrine in Oppoſition of <hi>Mars</hi> and <hi>Square</hi> to the <hi>Moon;</hi> theſe Poſitions ſhew as ill things to attend him as poſſible can be; for it doth not only ſhew him poor, but alſo like to continue in that Capacity and Condition; it makes their <hi>Councils treacherous</hi> and <hi>divided,</hi> and what is worſe, the beſt of their Councils and Advice will be in the general fruſtrate and fruitleſs, and divers of thoſe <hi>Noble Men</hi> and <hi>Gentlemen</hi> about the time of the Ingreſs, or ſoon after, will either deſert and leave them, or elſe forbear to act as they had done before; in ſhort, the Effects of this Revolution will frown on their Affairs, and the Concluſion of all will be <hi>ſharp</hi> and <hi>fatal,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding there may be much Blood ſpilt, and a great deal of <hi>Confuſion, Deſtruction</hi> and <hi>Ruin;</hi> but let this be our Comfort, that it will be the Ruin of thoſe that began it, and the Deſtruction that they intended will fall upon themſelves, and the Snare they laid will catch their own Feet.</p>
+            <p>
+               <hi>Thirdly,</hi> We may obſerve that <hi>Mars</hi> is juſt before the Ingreſs turned Retrograde in <hi>Taurus</hi> his Detriment: this ſhews that the Arms and War<g ref="char:EOLhyphen"/>like Affairs of ſome Prince or other are grown ſcandalous by their ill Succeſs and the Fate that attends them, their Reputation declines, and themſelves grow diffident of their own Courage and Conduct; and yet this is but the beginning of it to the purpoſe, we ſhall hear more here<g ref="char:EOLhyphen"/>after.</p>
+            <p>In the Figure we find the <hi>Moon</hi> in exact Trine to the tenth Houſe, a <hi>popular Poſition,</hi> and will be of good Conſequence in whoſe Nativity it ſhall have a proportional one like it: But for the reſt of the Poſitions I ſee none good, they all being according to the principal Motion; inclined to what is violent and troubleſome. I might have ſpoke of the <hi>Square</hi> of <hi>Mars</hi> and <hi>Venus</hi> in the Zodiack, the Mundane <hi>Parallel</hi> of <hi>Jupiter</hi> and <hi>Mars,</hi> the Mundane Square of the <hi>Moon</hi> and <hi>Mars,</hi> and the <hi>Moon</hi> and <hi>Saturn,</hi> but the Effects of them being couched in the Judgment of the other Rays and Motions<g ref="char:punc">▪</g> it would have been but ſo much time protracted
+<pb n="19" facs="tcp:172680:17"/>in my Writing, and your Reading, and therefore omitted as needleſs and inconvenient.</p>
+            <p>Honeſt <hi>J. Gadbury</hi> in his Judgment of the Scheam of this Ingreſs [which is indeed very ſhort.] gives the ſame Judgment as he did of this Sum<g ref="char:EOLhyphen"/>mer Quarter before it, <hi>that it will be attended with very bad weather.</hi> I doubt his head was full of Vapors when he wrote that, and that he had the ſound of the Confuſion of <hi>Popery</hi> in his <hi>Cranium,</hi> which it ſeems he miſtook and thought it had been nothing more but the <hi>Concuſſion</hi> of the Elements, and a fit of an <hi>Ague</hi> in the Air. <hi>Ah John,</hi> what pity it was that your <hi>Catholick</hi> Soul ſhould be thus deceived, what Pennance muſt you under<g ref="char:EOLhyphen"/>goe for it? why really I think inſtead of keeping one Whore as you uſed to do formerly, for this offence you ought to keep half a dozen; <hi>remember the Noſegay.</hi>
+            </p>
+            <div type="part">
+               <head>The whole conſidered together and applyed to particulars of Men and Things, <hi>&amp;c.</hi>
+               </head>
+               <p>IN the preceding diſcourſe I have given you the General of their Effects according to the Order and Courſe of Nature that may be expected in thoſe Countrys where the <hi>God of Nature</hi> hath deſigned them to ſpend their Power and Influence; this perhaps might ſuffice, it being the Common Method that is uſed by thoſe who call themſelves <hi>Aſtrologers:</hi> but I will endeavour to come nearer to the Agent and Patient, and give it more particular as to <hi>Countrys, Princes, People</hi> and <hi>Things,</hi> where theſe Ef<g ref="char:EOLhyphen"/>fects before mentioned may probably terminate, and who they are that are like to be paſſive under them.</p>
+               <p>The Eclipſe of the <hi>Moon</hi> which was in <hi>March,</hi> was celebrated in the 16 degree of <hi>Libra:</hi> under that Sign is ſome part of <hi>Germany,</hi> and alſo ſome parts of <hi>Turkey,</hi> which may expect to feel ſome of its Effects; but it more immediately concerns the <hi>Kings of Spain</hi> and <hi>Denmark,</hi> for it falls in the <hi>Mid-Heaven</hi> of the King of <hi>Spains</hi> Nativity, and <hi>Saturn</hi> at the ſame time on his Radical Horoſcope, in Square to his <hi>Mid-Heaven,</hi> theſe Poſiti<g ref="char:EOLhyphen"/>ons will give ſome Diſturbance either to his Health or Government, perhaps both. In the King of <hi>Denmarks</hi> Nativity this Eclipſe falls in his <hi>Horoſ<g ref="char:EOLhyphen"/>cope,</hi> and <hi>Saturn</hi> at the ſame time in Oppoſition, and <hi>Mars</hi> in Square to his Radical <hi>Sun,</hi> this ſhews rather <hi>Injury</hi> to his Subjects, and Commotion in ſome of his Territories than Sickneſs to his Perſon, becauſe neither <hi>Sun</hi> nor
+<pb n="20" facs="tcp:172680:18"/>
+                  <hi>Horoſcope</hi> are Givers of Life in his Radical Figure. But it will certainly give ſome Commotion in the Dominions of the <hi>Grand Signior,</hi> for, ac<g ref="char:EOLhyphen"/>cording to <hi>Ptolomy</hi>'s Doctrine, part of his Dominons are under <hi>Venus</hi> and <hi>Libra,</hi> and more alſo of thoſe Eaſtern Countreys: the <hi>Eclipſe</hi> alſo particular<g ref="char:EOLhyphen"/>ly concerns the late King for Evil and not for Good, for <hi>Saturn</hi> is there on the place of his Radical <hi>Sun,</hi> and alſo the <hi>Moon</hi> is in Oppoſition to his <hi>Mid-Heaven</hi> and <hi>Hileg.</hi>
+               </p>
+               <p>At the <hi>Solſtitial</hi> Ingreſs we find the <hi>Sun</hi> and <hi>Mars</hi> in Square, from the beginning of <hi>Aries</hi> and <hi>Cancer:</hi> under theſe two Signs are <hi>England, Hol<g ref="char:EOLhyphen"/>land, Scotland, France,</hi> and alſo ſome parts of <hi>Germany.</hi> Theſe Countrys according to their General Capacities and Qualifications for War, ſeem to approach toward Action, and that conſiderably too, the <hi>Engliſh, French</hi> and <hi>Dutch</hi> for <hi>Sea</hi> Action, the <hi>Germans</hi> and <hi>Scots</hi> for <hi>Land.</hi> At the New Moon preceding the Ingreſs the <hi>Sun</hi> was in the Eleventh, in a Weſtern Sign, and in a South-Eaſt part of Heaven, <hi>Mars</hi> was in a South-Weſt quarter; this ſhews ſome Action by Sea, Weſt or South-Weſt from <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and this about the time of the Ingreſs, and alſo about the middle of <hi>July</hi> when the <hi>Sun</hi> comes to the Square of <hi>Saturn,</hi> ſo likewiſe in the South-Weſt part of <hi>Germany</hi> by land, about thoſe times; neither will the King<g ref="char:EOLhyphen"/>dom of <hi>Scotland</hi> be idle: This Aſpect happening from <hi>Cardinal Signs</hi> will make the Action and Effects the more famous and conſiderable, and the ra<g ref="char:EOLhyphen"/>ther becauſe the <hi>Sun</hi> and <hi>Mars</hi> are Eſſentially ſtrong; <hi>Mars</hi> in his own Houſe, and the <hi>Sun</hi> in <hi>Cancer,</hi> in reception with the <hi>Moon</hi> in <hi>Leo:</hi> and to ſhew it will be ſomething of Violence, the <hi>Moon</hi> at the ſame Time is on the Ecliptical place of the laſt Conjunction 1682, <hi>&amp;c.</hi> and for an Argu<g ref="char:EOLhyphen"/>ment of the <hi>French Tyrant</hi> being concern'd, be pleaſed to conſider that <hi>Mars</hi> is in Conjunction with the <hi>Sun</hi> in his Revolution, and <hi>Saturn</hi> exactly on the place of his <hi>pars fortunae,</hi> and now ſtationary on the place of his <hi>Sun</hi> by Direction; at the time of this Square the <hi>Sun</hi> is on the King of <hi>Den<g ref="char:EOLhyphen"/>marks Mid-Heaven,</hi> and <hi>Mars</hi> on his ſeventh Houſe in a Mundane and Zo<g ref="char:EOLhyphen"/>diacal Square, which may alſo give him ſome Action either by <hi>Sea</hi> or <hi>Land,</hi> or both. On <hi>July</hi> the 12th the <hi>Sun</hi> comes to a Square of <hi>Saturn</hi> from the be<g ref="char:EOLhyphen"/>ginning of <hi>Leo</hi> and <hi>Scorpio;</hi> this doth particularly Affect the <hi>late King,</hi> and gives diſturbance to his Mind as well as Oppoſition, and want of Succeſs in his Affairs, becauſe <hi>Saturn</hi> is on the Radical place of his <hi>Sun,</hi> and the <hi>Sun</hi> on the Radical place of his <hi>Moon</hi> in the Ecliptick.</p>
+               <p>In the beginning of <hi>Auguſt</hi> there is an Oppoſition of <hi>Saturn</hi> and <hi>Mars</hi> from the beginning of <hi>Taurus</hi> and <hi>Scorpio,</hi> the <hi>Sun,</hi> at the ſame time, in Op<g ref="char:EOLhyphen"/>poſition to <hi>Jupiter</hi> from <hi>Leo</hi> and <hi>Aquary:</hi> This doth particularly concern that King laſt mentioned, now in <hi>Ireland;</hi> for <hi>Saturn</hi> is on the place of his
+<pb n="21" facs="tcp:172680:18"/>Radical <hi>Sun,</hi> &amp; <hi>Mars</hi> in Oppoſition to it; this gives all the diſadvantage to his Honour that can be; Diſappointment in his Expectation Loſs in his Affairs, and all Things that depend either upon his <hi>Courage, Conduct,</hi> or <hi>Council</hi> go on at this Time but ill and untoward: but if we mind the two Malevolents, they are both in Square to his Radical <hi>Moon,</hi> and in Parallel to his <hi>pars For<g ref="char:EOLhyphen"/>tunae,</hi> this gives illneſs of <hi>Body,</hi> ſo far as to be crazy, and out of order, perhaps really Sick; it gives loſs by Enemies, and that to ſome conſideration; it alſo gives Diſturbance to the <hi>Brain</hi> and Mind, with Diſorder of that Nature; and whatever is ſignified now will be with Violence, becauſe of the <hi>Sun</hi> on the place of the laſt Conjunction of Oppoſition to <hi>Jupiter,</hi> and the <hi>Sun</hi> on his Radical <hi>Mars</hi> his place. This, if I make a right Judgment, ſignifies Croſſes and want of Succeſs: And now expect to hear of ſome brisk Ingagement.</p>
+               <p>About the end of <hi>September</hi> the two Malevolents come to another Oppo<g ref="char:EOLhyphen"/>ſition by the <hi>Retrograde</hi> Motion of <hi>Mars,</hi> and this at the time of the great <hi>Lunar Eclipſe</hi> in the Sign <hi>Aries,</hi> in the ſeventh degree thereof; This <hi>E<g ref="char:EOLhyphen"/>clipſe</hi> falls exactly on the place of his Radical <hi>pars Fortunae,</hi> which gives loſs of Health and Eſtate; the Oppoſition gives all the trouble that Loſs, Diſ<g ref="char:EOLhyphen"/>content and want of Succeſs can give. <hi>Jupiter</hi> is here in Oppoſition to his Radical <hi>Mars,</hi> as if ſome thar were formerly his Friends, ſignified by <hi>Jupi<g ref="char:EOLhyphen"/>ter,</hi> did now turn Tail and prove his Enemies. But this Oppoſition ſeems alſo directly to point at the <hi>French Tyrant,</hi> for it falls in exact Square to his <hi>Moon</hi> and <hi>Venus,</hi> this gives <hi>Diſappointment</hi> and <hi>Loſs</hi> in his <hi>publick</hi> and <hi>forreign</hi> Affairs; treachery in his <hi>Councils,</hi> and perhaps a re<g ref="char:EOLhyphen"/>turn of his old fulſom Diſeaſe in <hi>Ano;</hi> and that the rather, becauſe <hi>Mars</hi> is in the fourth Houſe of his <hi>Radix,</hi> and <hi>Saturn</hi> of late Stationary on the place of the <hi>Sun</hi> by direction, and this conſidered with his Revolution; The <hi>Eclipſe</hi> alſo will have ſome Influence on his Country, and People, as well as <hi>England:</hi> in a word, this Month of <hi>September,</hi> and alſo <hi>October,</hi> ſeem to be times of great Action, and alſo of great Deſtruction among Men and Things; neither will <hi>Auguſt</hi> be free therefrom.</p>
+               <p>In <hi>October</hi> we have an Oppoſition of the <hi>Sun</hi> and <hi>Mars,</hi> and a Conjun<g ref="char:EOLhyphen"/>ction of the <hi>Sun</hi> and <hi>Saturn,</hi> from the aforeſaid Signs and Places; but that which makes it remarkable is, that it falls juſt upon the Suns return to his own place, in that Gentlemans Nativity we mentioned before; that is, it falls at the beginning of his next Years Revolution, which is like to give a very pleaſant Year to one in his Condition, to ſay the Truth, a worſe Revo<g ref="char:EOLhyphen"/>lution cannot be, for all ſorts of Miſchief, except Life: becauſe the one falls juſt before the Revolutional Point, and the other after it, and both ſo near, that the <hi>Sun</hi> is afflicted by each of them to a great degree; neither is the <hi>Moon</hi> and Radical <hi>part of Fortune</hi> free at the ſame time from the Affliction
+<pb n="22" facs="tcp:172680:19"/>of the Malevolents; which conſidered together, do not only promiſe a ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> end of this Year, but a very evil beginning and continuance of the next; and who ever they are that expect his Return, build their Hopes and Wiſhes on very bad Grounds and Foundations; for if we conſider his directions that he is now under, together with his Revolutions and Tranſits, he is ſo far from returning, that they will ſtill heap up more <hi>Plagues, Croſſes,</hi> and <hi>Vexations</hi> on his <hi>periſhing Fortune,</hi> than they have yet done: or to ſpeak more plainly, they will ſtill increaſe and multiply the Misfortunes he is now un<g ref="char:EOLhyphen"/>der: And therefore let all honeſt Men be incouraged to uſe their endeavours, both by <hi>Counſel</hi> and <hi>Arms,</hi> to defend their <hi>Laws, Lives,</hi> and <hi>Liberties</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>Tyranny</hi> of <hi>France, Rome,</hi> and thoſe Confederated with them, to deſtroy all that ſtand in their way; for the Heavens favour their Under<g ref="char:EOLhyphen"/>taking with Succeſs, and have given an Opportunity to them to make themſelves a <hi>free</hi> and a <hi>happy</hi> People; and therefore if they are not ſo, it is their own faults; for <hi>God</hi> is not bound to ſave them againſt their will. The <hi>ſeaſon</hi> is <hi>approaching,</hi> let every Man ſet his <hi>Hand</hi> to the <hi>Plough,</hi> and the Work will be eaſy, and we are in more Danger from an unworthy Generati<g ref="char:EOLhyphen"/>on in the midſt of us, that endeavour our Ruin, than of the <hi>Abdicated King,</hi> who you have little or no reaſon to fear; and therefore expect him no more.</p>
+               <p>But I find there are ſome diſcontented Spirits abroad that deſire to have their <hi>Popiſh King again,</hi> and others that encourage them to expect his Re<g ref="char:EOLhyphen"/>turn, and that by Force of Arms. Firſt then conſider what People theſe are that wiſh it; for when he was made <hi>King,</hi> and <hi>ſwore</hi> to the People to main<g ref="char:EOLhyphen"/>tain their <hi>Laws, Liberties</hi> and <hi>Religion,</hi> Did he not break thro all, and invade every Mans Propriety therein concern'd? and do ye believe he is grown more <hi>Juſt</hi> now? did he not raiſe and impoſe upon you a <hi>Cut-Throat Army,</hi> who threatned daily to <hi>Ruine, Deſtroy</hi> and <hi>Dragoon</hi> ye, according to the <hi>French Method?</hi> and do ye think he is grown more <hi>Merciful</hi> now? Did he not bring in <hi>Sholes</hi> of <hi>Prieſts,</hi> prefer all thoſe perſons that would turn Pa<g ref="char:EOLhyphen"/>piſts, incourage <hi>Popiſh Chappels</hi> all the Nation over? and did his endeavour to give you all to underſtand that he was taking the beſt and moſt ſpeedy way to bring in <hi>Popery,</hi> and when that was ſettled, to deſtroy the <hi>Proteſtants</hi> [for <hi>Popery</hi> and <hi>that</hi> can by no means dwell together, witneſs <hi>France:</hi>] and do you think he is now grown leſs a <hi>Bigot</hi> to his <hi>Religion,</hi> and more free from the Government of his <hi>Iriſh</hi> and his <hi>Prieſts</hi> than he was before? Did not the <hi>Papiſts</hi> over the whole Nation threaten you what they would do, how they would uſe you, who they would <hi>Hang</hi> and <hi>Jaile, &amp;c.</hi> when their <hi>King</hi> had ſetled Popery, and given them the power [which you ſaw was very near, doing?] and do ye believe, that he, or they either are grown better-natured people now than they were before, or that they will
+<pb n="23" facs="tcp:172680:19"/>uſe you more kindly? No, No, never cheat your ſelves to believe <hi>Papiſts</hi> will be any more kind to you now, then they have been to the Proteſtants formerly in <hi>Piedmont,</hi> at <hi>Rochel</hi> in <hi>France,</hi> at <hi>Paris,</hi> in <hi>Ireland,</hi> and many other places where they murdered them by <hi>thouſands,</hi> and <hi>hundreds of thou<g ref="char:EOLhyphen"/>ſands:</hi> and of late under that <hi>Tyrannical Monſter</hi> in <hi>France,</hi> where the <hi>Jailes, Gibbets</hi> and <hi>Galleys</hi> were their Doom, and the merciful Cenſures they received from the <hi>Papiſts</hi> their <hi>Protectors</hi> and <hi>Defenders,</hi> and this for no other Reaſon, but becauſe they would not be <hi>Roman Catholicks,</hi> and change their Religion. And aſſure your ſelves, if ever you ſuffer the <hi>Ab<g ref="char:EOLhyphen"/>dicated King</hi> to return again, he will uſe <hi>Rehoboam's</hi> Expreſſion, that he did indeed chaſtiſe you before with <hi>Whips,</hi> but now he will do it with <hi>Scorpions?</hi> he only perſwaded you then, but now he will Compel you? Be<g ref="char:EOLhyphen"/>fore he ſent out among you his <hi>Apoſtatical whining Regulators,</hi> but now he will Court you by his <hi>Dragoons, &amp;c.</hi> Before he gave you your ſelves leave to look after your Eſtates, but now he will take Care of them him<g ref="char:EOLhyphen"/>ſelf, left you ſhould do your ſelves an Injury, buy <hi>Arms,</hi> and offend the <hi>good Catholiks,</hi> and ſo come to be Hanged for <hi>Rebels:</hi> Before he deſired and intreated you to take off the <hi>Penal Laws</hi> and <hi>Teſt,</hi> but now he will take them off himſelf; and make ſuch too in their rooms, as ſhall [according to the <hi>French</hi> Manner] make your Hearts ake and your <hi>Eſtates</hi> too: in his Brothers time he delivered you over to the <hi>Devil,</hi> and Dr. <hi>P--ld,</hi> to be buffet<g ref="char:EOLhyphen"/>ed, but when he was on the Throne himſelf he ſtopt all that, to ſhew you that he was a good-natured Gentleman, but now he will pay you for the New and the Old; and really I ſhould think it would be a Comfort to any one to be brought before half a dozen fine grave old Men ſitting in their <hi>Jeſuitical Formalities,</hi> and receive Sentence, to be <hi>ſent,</hi> either to the <hi>Galleys</hi> or to <hi>Tyburn.</hi>
+               </p>
+               <p>In ſhort, if you deſire him again, you muſt take him with Thanks to him for all the <hi>Oppreſſion, Trouble, Ruine,</hi> and <hi>Deſtruction</hi> that he hath brought upon the whole Nation in general, and every Man in particular; and lay your <hi>Necks</hi> at his <hi>Feet,</hi> and beg of him to make you <hi>Slaves</hi> of what Quality and Degree he pleaſeth; to ſet up what Religion he likes beſt, to protect you according to the <hi>Iriſh</hi> and <hi>French Modes,</hi> and to de<g ref="char:EOLhyphen"/>ſtroy all your antient <hi>Laws, Rights,</hi> and <hi>Priviledges:</hi> For I hope you have more Senſe, with your Experience, than to believe he is to be bound by <hi>Laws, Oaths,</hi> or <hi>Obligations.</hi> Yet this is not all, for we muſt expect to have our <hi>Oppreſſions</hi> and <hi>Chains</hi> wrought upon the <hi>French Anvil;</hi> for you ſee plainly now, by the Affairs in <hi>Ireland,</hi> that the <hi>French King</hi> is his <hi>Tutor</hi> and <hi>Maſter,</hi> and that he is wholly under his Guide and Management; and therefore at the ſame time you take <hi>James</hi> for your <hi>King,</hi> you muſt take the
+<pb n="24" facs="tcp:172680:20"/>
+                  <hi>French Tyrant</hi> for your <hi>Governour,</hi> and expect all the <hi>Oppreſſion</hi> and <hi>Ty<g ref="char:EOLhyphen"/>ranny</hi> that the poor <hi>Proteſtants</hi> in <hi>France</hi> have ſuffered, and indured, theſe laſt ſix or ſeven Years. I ſay, under theſe Conſiderations, what People muſt theſe be that deſire or wiſh him here again, or <hi>hinder</hi> and <hi>obſtruct</hi> the Regular Ways and Methods, taken for the Safety and Setling of the Nati<g ref="char:EOLhyphen"/>on upon its antient Baſis of <hi>Peace</hi> and <hi>Liberty?</hi> Why it is ſoon anſwered, Let their Circumſtances be what they will, and let them be under what Character ſoever of Diſtinction, either of <hi>Laity</hi> or <hi>Clergy,</hi> they will in the end prove very dangerous to the Government. As for the <hi>Pa<g ref="char:EOLhyphen"/>piſts</hi> we know what their End is, in all they endeavour; and therefore there is nothing expected from them but our Ruin, if they carry their Point, which is to eſtabliſh <hi>Mother Church.</hi>
+               </p>
+               <p>As for the <hi>Diſſatisfied Party,</hi> they are a ſort of People, many of them, that care neither for <hi>Nation</hi> nor <hi>Religion;</hi> if they can but turn the Penny they will overturn both, or either, according as they are hired; or at leaſt-ways do their endeavour for it: as we have ſeen in our Time, when there was a large <hi>Crew</hi> of <hi>Penſioners</hi> paid to pervert the Nation, <hi>&amp;c.</hi> and made no Scruple of it. Theſe People, at this Time, are not <hi>Guiny-men,</hi> nor ſuch as deal with <hi>Angels,</hi> but they are <hi>Piſtol-Proof;</hi> they are equipt of the <hi>French</hi> Mode, and ſo well learned in that Language, that they can write an <hi>Acquittance,</hi> without miſtaking either Method or Matter; they are a ſort of <hi>Catterpillers</hi> with <hi>ſoft Skins,</hi> and in curious <hi>Colours,</hi> but their Work and Nature, is to deſtroy the Fruits of the honeſt Country-Man's Labour, and are a Curſe to any Kingdom where they are ſent, and come; they are ex<g ref="char:EOLhyphen"/>cellent <hi>Caſuiſts,</hi> that never want Arguments, which perhaps ſometimes may ſeem againſt themſelves, but like the <hi>Serpent</hi> in the Fable, that laſt no longer than they have an Opportunity to ſhew their Endeavours bare<g ref="char:EOLhyphen"/>fac'd; in ſhort, they are like <hi>Water-Men,</hi> that look one way and row ano<g ref="char:EOLhyphen"/>ther, and will be very angry too if you will not take them for honeſt Men; they are Serviceable to all Governments, and their <hi>Pay</hi> prevailes before their <hi>Conſcience,</hi> and like a <hi>Spaniel</hi> they will be wrigling their Tails till they get into Buſineſs.</p>
+               <p>Now you may know this ſort of unhappy and Diſaffected Men by their Language and Carriage, for they always either talk in favour of their <hi>Abdi<g ref="char:EOLhyphen"/>cated King,</hi> drink Healths to their <hi>old Maſter,</hi> thank God they had no Hand in <hi>driving him</hi> out, nor <hi>bringing</hi> in his preſent <hi>Majeſty,</hi> do all they can to ſhelter <hi>Papiſts</hi> and ill Men from Juſtice; or elſe when any thing is to be done, they raiſe doubts and difficulties, lay <hi>Bears</hi> and <hi>Lyons</hi> in the way if it is for the Service of his Preſent <hi>Majeſty,</hi> but remove Mountains if it be for the other ſide. Others cry out, <hi>For the Lords ſake take Care of the Church,
+<pb n="25" facs="tcp:172680:20"/>Oh the Church will be deſtryed!</hi> when there is not the leaſt Ground to ſuſ<g ref="char:EOLhyphen"/>pect it; for, God be thanked, we have a King that is a Gentleman, and will not break his Word and Oaths, as others have done before him, he his one that hath promiſed, and alſo ſworn to defend the Church of <hi>England,</hi> and to maintain it as by Law eſtabliſhed, and we have no reaſon to doubt it; and therefore this Noiſe is but to amuſe the Ignorant, and diſturb the Waters, that the Jugling Authors thereof, may with the more eaſe catch the Silly Gudgeons. So that if theſe kind of <hi>Symptoms</hi> appear, you may be ſure they are not Men that wiſh well to the Settlement of our <hi>Religion,</hi> the Peace and Honour of the Nation, nor the Good and Welfare of their Majeſties, the <hi>Savers</hi> of our <hi>Nation</hi> and <hi>Religion;</hi> but are in the <hi>French</hi> Intereſt, and by his <hi>Piſtols</hi> purchaſed to <hi>poiſon</hi> the Nation, raiſe <hi>Differences,</hi> hinder Buſineſs of the greateſt Conſequence, alienate the <hi>Hearts</hi> of their <hi>Majeſties Subjects;</hi> and if poſſible to put the Nation into a flame, that their Maſter may the better accompliſh his ends now on Foot:</p>
+               <p>Secondly conſider that theſe very People, that now uſe all their endea<g ref="char:EOLhyphen"/>vours to divide the Nation, were the only People moſt poſſeſſed with Fear and Terror, about 10 or 12 Months agoe; and with Paſſion uſed to ſay as the <hi>Jailor</hi> in the Acts did, <hi>what ſhall we do to be Saved?</hi> when will the <hi>Prince</hi> of <hi>Orange</hi> come? Oh why doth he delay ſo long, will he let us be a Prey to our Enemies? <hi>Pray God ſend an Eaſt Wind,</hi> that we may be deli<g ref="char:EOLhyphen"/>vered: and more ſuch Expreſſions to this purpoſe they often uſed. And now they are delivered, the Note is changed, and they <hi>Cry,</hi> Why do they not prove the <hi>Child</hi> an <hi>Impoſtor?</hi> why do they not prove the <hi>Earl</hi> of <hi>Eſſex</hi> his <hi>Murder?</hi> and why do they not prove that <hi>Charles</hi> the Second was <hi>poy<g ref="char:EOLhyphen"/>ſoned, &amp;c?</hi> Why what is this to us, whether they do or not? Suppoſe they cannot prove any one of theſe, what muſt we <hi>revert</hi> into <hi>Popery,</hi> and put our Lives into our Enemies hands again, to give them an Opportunity to try their <hi>good Nature,</hi> and ſee whether they will <hi>Cut</hi> our <hi>Throats</hi> or not? poſſibly it may paſs upon, and among, Paſſive-Obedience-Men, but never upon me, and I hope many more. However I doubt not but theſe Things will be proved when it is convenient. In the mean Time, God bleſs them that take care to ſecure the Nation againſt Popery and Tyranny; and aſſure yourſelves they that will not believe the pretended Prince of <hi>Wales</hi> to be Suppoſititious before 'tis proved, will as much doubt it then, and ſo of the reſt; for they are certainly Favorers of that pious Cauſe. Theſe were good humble People before, and then the Prince of <hi>Orange</hi> was an Angel to them; but now I hear that they talk ſo unreaſonable as if they ſeem'd to long to be ſent to Priſon and Secured; and indeed they do not ſtick to ſay the Government dares not meddle with them. But I ſhall ſay no more to
+<pb n="26" facs="tcp:172680:21"/>theſe ungrateful Perſons but this, that their preſent <hi>Majeſties</hi> are our Law<g ref="char:EOLhyphen"/>ful <hi>King</hi> and <hi>Queen,</hi> that they are <hi>Proteſtants,</hi> and have promiſed, and ſworn, to defend our <hi>Liberties,</hi> and <hi>Religion;</hi> and all that are <hi>Proteſtants,</hi> are bound by the Laws of God, and Nature, to ſtand by, and defend, them to the utmoſt of their power; and he that is not of this Opinion, neither deſerves their Protection nor their Permiſſion to live in their Dominions, but like <hi>Cain</hi> to be driven forth, and be a <hi>Vagabond</hi> on the Earth as he was.</p>
+               <p>Now the God of Heaven preſerve <hi>King William</hi> and <hi>Queen Mary,</hi> our Lawful <hi>Soveraigns,</hi> and give them plentifully of his Spiritual Wiſdom, that they may govern us according to his Will; let them live long and happy, and become a Terror to all their and our Enemies; and as God hath given a ſignal Teſtimony to us by them, and the great Miracle they have wrought in our Deliverance, ſo let us always ſincerely <hi>implore the Throne of Grace</hi> to defend them all their days, and when this Life ſhall end, to make them partakers of his Eternal Bliſs for ever and ever.</p>
+               <closer>
+                  <signed>So wiſheth <hi>J. P.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>A Copy of a Malicious Paper given forth among the Papiſts, by that grand <hi>Impoſtor</hi> and <hi>Apoſtate, J. Gadbury,</hi> a litele before the Prince landed, in theſe words following.</head>
+               <p n="1">1. THe Prince of <hi>Orange</hi> hath an Effeminate Geniture, and therefore can never prove a Conqueror.</p>
+               <p n="2">2. He is under a moſt malicious Revolution at the preſent, as having a Square of <hi>Mars</hi> and <hi>Mercury</hi> therein as in his Radix, denoting much Treachery to be acted, not only by but againſt him. I conceive the <hi>Dutch</hi> are <hi>weary</hi> of him, and alſo of the <hi>Engliſh Renegado Rebels,</hi> and therefore make uſe of him as the <hi>Munkey</hi> did of the <hi>Cats Foot, viz.</hi> at once to diſembogue themſelves of the ſaid Rebels, whoſe Company renders them obnoxious to ſo great a Prince as the King of <hi>England,</hi> and likewiſe to be totally rid of <hi>Him</hi> without <hi>Dewitting</hi> him.</p>
+               <p n="3">3. His Hylegical Directions are pernicious, he hath lately paſſed M. C. to the Square of the <hi>Moon,</hi> a Direction of fixed Malice, but could not work his Ruine, becauſe the <hi>Moon</hi> delights in <hi>Taurus</hi> the place of the Direction: But he is under at preſent his Horoſcope to the Square of <hi>Jupiter</hi> and the <hi>Sun,</hi> of a violent Influence and Import in earneſt, as
+<pb n="27" facs="tcp:172680:21"/>happening in Oppoſition to the <hi>Pleiades</hi> a turbulent and violent Con<g ref="char:EOLhyphen"/>ſtellation.</p>
+               <p n="4">4. At this very time when his Maritine Buſſe and Preparation is at the greateſt, the <hi>Moon</hi> (his own and <hi>Nations Planet</hi>) is <hi>eclipſed</hi> in <hi>Aries,</hi> an Equinoctial Sign and the Horoſcope of <hi>England, viz.</hi> under the Do<g ref="char:EOLhyphen"/>minion of <hi>England</hi>'s Soveraign.</p>
+               <p n="5">5. And if he go on Ship-board on Monday next, the <hi>Moon</hi> will be in <hi>Taurus</hi> in Oppoſition to the <hi>Sun</hi> and <hi>Jupiter</hi> in his own Geniture, and this among the <hi>Pleiades</hi> alſo, and likewiſe in Oppoſition to a powerful <hi>Mars</hi> in <hi>Scorpio,</hi> in a Figure of Heaven that greatly favours <hi>England,</hi> and all its preſent Affairs: which ſeriouſly conſidered, with the <hi>Revolutions, Di<g ref="char:EOLhyphen"/>rections,</hi> and <hi>Eclipſes</hi> before noted, is an abſolute <hi>Prodromus</hi> of his <hi>Ruine,</hi> according to natural Cauſes, and in little time (in caſe of Invaſion) we ſhall hear of <hi>his</hi> and <hi>his Party's total Overthrow</hi> and <hi>Deſtruction.</hi> Pro<g ref="char:EOLhyphen"/>bably ſome of his great ones [and <hi>perhaps Himſelf</hi>] will be brought againſt their Will to make <hi>Speeches at Tower-hill and at Tyburn,</hi> &amp;c.</p>
+               <p n="6">6. <hi>England</hi> was invaded by the <hi>Spaniard</hi> in 1588, but what did they get by it? their <hi>Armado</hi> was ruined, and this Noble Nation was quickly rid of its peſtiferous Enemies; and ſo I doubt not, by God's Bleſſing, but 'twill be ſo again in 1688: the Engliſh Nation is wiſe, tho ſtubborn, and will ſooner ſubmit to a <hi>merciful pious Prince</hi> they know, than come under the Yoke of a Conqueror.</p>
+            </div>
+            <div type="part">
+               <head>Some ſhort Animadverſions thereon.</head>
+               <p>HIS firſt Paragraph is needleſs, for the Prince (now our King) did not come to <hi>Conquer,</hi> but to <hi>Deliver</hi> the Nation from <hi>Popery</hi> and <hi>Tyranny,</hi> and alſo to preſerve the Peoples <hi>Throats</hi> from being <hi>cut.</hi>
+               </p>
+               <p>In his ſecond, the King is mightily beholden to him for his modeſt Si<g ref="char:EOLhyphen"/>mily of comparing him to the <hi>Cats Foot;</hi> do but obſerve the Malice of the Fellow in what ſcandalous Terms he uſeth one of the greateſt <hi>Princes</hi> in <hi>Europe,</hi> and how he licks the <hi>Popiſh Fops</hi> up with <hi>Oil of Fool:</hi> for the <hi>Dutch</hi> were not [as he calls it, obnoxious] afraid of the then <hi>King of England,</hi> and the reaſon was becauſe they knew him better than to fear him: But <hi>pray you John</hi> why the <hi>Cats Foot?</hi> is it a <hi>Popiſh Witticiſm,</hi> or hath the <hi>Cat</hi> deſerved ill of <hi>Mother Church?</hi> for I ſee you uſe it out of Contempt, becauſe you gave it to the then <hi>Prince of Orange,</hi> and I ſuppoſe you thought by giving the Prince ill Names, your then Client the <hi>Popiſh Lady,</hi> to whom you gave that Lying Paper, would more wil<g ref="char:EOLhyphen"/>lingly
+<pb n="28" facs="tcp:172680:22"/>part with her Mony; but this is no News, for it ſhews you to be <hi>Honeſt John Gadbury</hi> ſtill; let what Religion will come, thou wilt be ſure to be on the riſing ſide. You know at that time you could give no <hi>Prote<g ref="char:EOLhyphen"/>ſtant</hi> a good word, and I wonder you uſed the <hi>Prince</hi> ſo kindly: and you know <hi>John</hi> when it was the faſhion to <hi>whip</hi> honeſter Men than your ſelf for leſs Crimes than this.</p>
+               <p>His third Paragraph ſhews not only his Malice, but his Ignorance alſo in <hi>Aſtrology;</hi> for the firſt Direction he ſpeaks of hath been over this 20 <hi>Years;</hi> and the ſecond will not come up theſe 20 <hi>Years</hi> yet to come; but ſuppoſe it were true, where is the violent Effect he ſo idly talks of? This is like his Story of Sir <hi>Frechvil Holles,</hi> and juſt as true; for he pro<g ref="char:EOLhyphen"/>miſed him he ſhould live 20 Years, and he was kill'd within ſix Months after: <hi>Ah Jack,</hi> thy <hi>Aſtrology</hi> is as true as thy <hi>Religion!</hi> thou art an In<g ref="char:EOLhyphen"/>fallible Tool.</p>
+               <p>In his fourth he hath ſtrain'd his Nonſence to a Miracle; for none but <hi>J. Gad.</hi> did ever give that Judgment of an Eclipſe in <hi>Aries,</hi> as you may read <hi>in Cardan. Seg.</hi> 5. <hi>Aphor.</hi> 45. where he tells us that it ſignifies the Multitude, <hi>i. e.</hi> that <hi>Captain Tom</hi> ſhould do the Nation Juſtice upon <hi>Popiſh Offenders;</hi> was it ſo or not <hi>John?</hi> Lying is an inherent Faculty, and thou canſt not leave it.</p>
+               <p>But in his fifth there he hath ſhewed himſelf to a hair; for firſt he falſly imagines a Cauſe to build his <hi>malicious</hi> and <hi>bloody Prediction</hi> upon without Cauſe, and what was this for? why it was to ſupport and in<g ref="char:EOLhyphen"/>courage his <hi>treaſonable Party and Popiſh Crew</hi> in their further Attempts to deſtroy the Proteſtants and Proteſtant Religion: And pray obſerve how confidently the Fellow tells his Party, that in caſe of Invaſion [for he and they too knew there was no danger without that] they ſhould certainly hear of the <hi>Prince</hi> and the reſt of the <hi>Peers</hi> and <hi>Gentlemen</hi> being beaten, taken, and brought to make Speeches at <hi>Towerhill</hi> and <hi>Tyburn;</hi> this was not ſpoke by <hi>Chance,</hi> or in <hi>Diſcourſe,</hi> but with premeditated Malice againſt his <hi>Majeſty</hi> and the <hi>Proteſtants,</hi> and with his earneſt Hopes deſires and wiſhes to ſee it accompliſhed, for in all Times, and under all Govern<g ref="char:EOLhyphen"/>ments, he is certainly a <hi>Villain</hi> to the height, and always of the ſame Reli<g ref="char:EOLhyphen"/>gion that the chief of the Government are of: And do you but count how many Changes there have been in the Engliſh Government, in point of Worſhip eſpecially, ſince the Year 1645, or 6, and juſt ſo often hath honeſt <hi>John</hi> changed his Perſwaſion in Religion, and once more, that was when he turned <hi>Ranter;</hi> and ſhould the <hi>Great Turk</hi> come he would take up his old Topick, <hi>i.e. That God always ſends a King of that Religion which he expects the People ſhould be of.</hi> Now the Queſtion is, whether <hi>John Gad<g ref="char:EOLhyphen"/>bury,</hi>
+                  <pb n="29" facs="tcp:172680:22"/>the <hi>Parſon</hi> of <hi>Putney,</hi> and <hi>Harry Hills</hi> ever intend to dye Martyrs? Theſe are three ſpecial Fellows. But now <hi>John,</hi> ſuppoſe his <hi>Majeſty</hi> ſhould turn the Tables, and as you have doom'd him to make a Speech at <hi>Towerhill,</hi> he ſhould ſend you to make a Speech at <hi>Tyburn;</hi> or what is according to your late Mode, let you walk from <hi>Aldgate</hi> to <hi>Tyburn,</hi> having a Man go behind you to <hi>bruſh</hi> the <hi>Duſt</hi> and the <hi>Flies</hi> off from your Back on your way; and this I am ſure you deſerve, if not for that, yet for your now preaching up Sedition to amuſe his <hi>Majeſties Subjects,</hi> and carry on the <hi>Popiſh</hi> Cauſe; for there are divers Ladies that I have ſpoke with, that ſay they have heard you tell it confidently that the <hi>Abdicated King</hi> would be here by <hi>Midſummer,</hi> and you adviſed the <hi>Papiſts</hi> to uſe their In<g ref="char:EOLhyphen"/>tereſt accordingly; nay, I have heard the ſame from ſome <hi>Papiſts</hi> alſo, and I can bring them to your Face, but they are People of more Honour than to turn Evidences; you know who you have told it to, tho perhaps not how many: <hi>Ah John!</hi> thou art not only an <hi>Ill, Perfidious, Traiterous, Syco<g ref="char:EOLhyphen"/>phantizing Scorpioniſt,</hi> but a notorious Liar alſo, thy very Nativity beſpeaks thee to be all this, and from your own Rules too: But prithee <hi>John</hi> why <hi>Towerhill</hi> and <hi>Tyburn,</hi> you ſee your curſed Crew are not ſo dealt with, tho you deſerve it far more, but indeed <hi>Whipping-poſts, Jailes</hi> and <hi>Gibbets</hi> were the common Favours you <hi>Papiſts</hi> did uſe to beſtow on the <hi>Proteſtants</hi> at that time, and we know it will be the ſame again, if ever they get the Power, and for that reaſon <hi>John</hi> I am for your having a taſte of it now to try the Experiment.</p>
+               <p>In the laſt Paragraph he draws a Parallel between the Invaſion in 1588, and 1688, and tells you he <hi>doubts</hi> not but to ſee the laſt prove as the firſt did. <hi>Now John</hi> are you not aſhamed? how can you look any Gentleman in the Face without bluſhing after all this Trick, Cheat, and Lying? But prithee <hi>John</hi> conſider, that the Invaſion of 1588, was to <hi>bring in Popery,</hi> and this of 1688, was to <hi>kick it out;</hi> in both which you ſee the Judgment of an <hi>angry God</hi> againſt their <hi>Idolatry</hi> and <hi>Lying,</hi> which you <hi>blaſphemouſly</hi> call <hi>Religion.</hi> Again <hi>John,</hi> prithee how did you look when you call'd <hi>James</hi> your King a <hi>merciful, pious Prince?</hi> I confeſs <hi>Cabinet Jones</hi> gave him that Character when he wrote to us at <hi>Amſterdam,</hi> but no body be<g ref="char:EOLhyphen"/>lieved him, becauſe we knew him better. Honeſt <hi>John,</hi> thou haſt ſuffi<g ref="char:EOLhyphen"/>ciently ſhewed to the World that thy whole Life hath been a continued courſe of Villany and Knavery: And this little Paper, hadſt thou never been guilty, would have made thee ſuſpicious, but now it is a Confirma<g ref="char:EOLhyphen"/>tion of all the reſt, and helps to make thee a compleat —. And this leads me to conſider thy Almanack this Year, in which thou haſt been <hi>extravagantly idle</hi> and <hi>impudent,</hi> which I refer to every ones Judgment in the reading what follows.</p>
+               <pb n="30" facs="tcp:172680:23"/>
+               <p>IN Page 7. ſpeaking of the Spring Quarter, he ſays, it ſpeaks better things to <hi>Great Britain</hi> than the <hi>Engliſh Libelling Renegado's</hi> in <hi>Hol<g ref="char:EOLhyphen"/>land dream</hi> of: <hi>Query,</hi> whether he means the <hi>Abdicated Lords</hi> and <hi>Biſhop</hi> now at <hi>Amſterdam</hi> or not? for I know no <hi>Renegado's</hi> elſe in <hi>Holland:</hi> there are divers beſides in <hi>France</hi> and <hi>Ireland.</hi>
+               </p>
+               <p>In <hi>January,</hi> in his <hi>Rime doggerel</hi> over the Month, he begs the place to be the <hi>Prince</hi> of <hi>Wales</hi> his <hi>Vaſſal:</hi> Thus you ſee there can never be a good place vacant but one Knave or another is always ready to beg it. Well, let him take it, and pray take care that <hi>Honeſt John</hi> may be entered down in the <hi>Book of Honour</hi> for the <hi>Prince</hi> of <hi>Wales his Slave.</hi> There is a pair of them [like Maſter like Man.] In this Month he hath taken a great deal of care to put down <hi>King Char. the Martyr;</hi> but if you obſerve <hi>No<g ref="char:EOLhyphen"/>vember</hi> he hath quite forgot <hi>Gunpowder-Treaſon,</hi> and yet a very good Pro<g ref="char:EOLhyphen"/>teſtant; why really he did tell me long ſince that there never was any ſuch thing, and that it was only a Trick of King <hi>James</hi> the Firſt; this gave me the firſt ſuſpicion of his being a <hi>Papiſt.</hi>
+               </p>
+               <p>In the Month of <hi>April</hi> he tells us that Dr. <hi>Oates</hi> was to ſtand in the Pil<g ref="char:EOLhyphen"/>lory at <hi>Tyburn</hi> on the 24th day, and ſo to do every Year on that day as long as he lives; <hi>Query,</hi> who ſaw it, and whether <hi>Jack</hi> was not miſtaken in the Point as he uſed to be? <hi>riſum teneatis.</hi>
+               </p>
+               <p>But in <hi>May</hi> he makes a long <hi>Harangue</hi> about his unjuſt Trial, and tells us that on thoſe days there mentioned, he was to be puniſhed, and after<g ref="char:EOLhyphen"/>ward to remain in Priſon during his Life: But <hi>Honeſt John</hi> hath lived to ſee himſelf prov'd a <hi>Liar,</hi> and the <hi>unjuſt Judges</hi> to ſee their <hi>unjuſt Sentence and Judgment</hi> called in Queſtion by their Superiors. Was there ever ſuch a baſe and barbarous Sentence given before? no, nor would now by any but <hi>Diſpenſing Judges,</hi> nor none but a <hi>Traiterous Scorpioniſt</hi> would ſo triumph over a poor Gentleman's Sufferings.</p>
+               <p>In <hi>Auguſt</hi> and <hi>September John</hi> hath impudently repeated his former Folly, and tells us that Dr. <hi>Oates</hi> is to ſtand in the Pillory again on thoſe ſeveral days, and ſo to do as long as he lives. What way could this Fellow have taken better than this, to let the World know his <hi>Malice, Impudence</hi> and <hi>Folly?</hi> Now I will venture a Wager of five to one with <hi>John Gadbury,</hi> that there is not a word of this will prove true; if ſo our <hi>Popiſh Oracle</hi> is quite out of <hi>biaſs,</hi> and his Cant of this kind quite out of date. Now the Queſtion is, Whether <hi>John</hi> can find a <hi>Salvo</hi> for this Miſtake? for if he had known that Popery would have kick'd up its heels, I dare ſay he would not have declared himſelf a Papiſt ſo ſoon, nor when he did, nor have wrote ſo much fulſome ſtuff about his <hi>Maſter,</hi> the <hi>ſuppoſed Prince of Wales,</hi> which is nauſcous to every Mans Palate, nor yet have writ this about Dr. <hi>Oates,</hi> as
+<pb n="31" facs="tcp:172680:23"/>a Record of his <hi>Folly</hi> and <hi>Ignorance:</hi> Beſides, this calls his pretended Skill in Aſtrology extramely in queſtion, and is an aſſured proof that <hi>Honeſt John</hi> knows no more of the Myſtery lodged in the Stars than his Maſter the <hi>Prince of Wales</hi> knows, or the Ancient and <hi>famous Tom. Thum.</hi> However ſo long as he can coin new <hi>Aphoriſms,</hi> impoſe <hi>Palladiums</hi> of <hi>Cities</hi> on thoſe that will believe him, and tell the World that the <hi>Cardinal Signs</hi> upon the Angles of a Nativity ſignify great things, it is enough to give ſome ground to the Ignorant to believe his canting Bounces that he yearly prints under the Notion of Aſtrology, when I dare aſſure you he is very little acquainted with it, as you ſhall ſee further proved upon him when I come to examine his ſeveral impertinent Treatiſes that he hath impoſed on the Worſd. But ſuppoſe any one ſhould go to thoſe places on thoſe days he ſpeaks of to ſee whether it be ſo or not, for <hi>John</hi> is of a Religion that can <hi>work Miracles,</hi> why truly it will but add ſo much pains to your credulous Folly; for now the Fellow believes himſelf to be a <hi>Liar,</hi> and they ſay a <hi>Liar</hi> is worſe than a <hi>Thief,</hi> but he knows beſt whether he is or no; yet a <hi>Remnant muſt be ſaved.</hi> Ah John!</p>
+               <p>In <hi>November</hi> he tells us when <hi>Father Petre</hi> was ſworn of the King's Council and took his place; I wonder the Fellow is not aſhamed to let the World know what a <hi>Crew of Traitors</hi> that King cauſed to be ſworn of his Council, as <hi>Butler</hi> and divers others which you may read in his Obſervati<g ref="char:EOLhyphen"/>ons; yet the <hi>grand obnoxious Perſon Jefferies</hi> he hath omitted, I doubt he had forgot him, for he was a Privy-Councellor alſo: What can this ſhew but that he was and is a Papiſt, and did approve all their Actions; and if you queſtion his being a Papiſt, look but into <hi>December,</hi> where he endeavours to juſtify the Lord <hi>Stafford,</hi> and brings in this Expreſſion; <hi>Say Anti-Catholick is not the Truth diſcovered,</hi> &amp;c. by this he challenged all that were not Papiſts, himſelf being out of the number, and yet I hear he hath already had the Impudence to ſay, <hi>by Heavens I am not a Papiſt! I wonder People ſhould ſay ſo!</hi> By which we may ſee he can change his Religion when he pleaſeth, and finds occaſion.</p>
+               <p>In the Page before his Advertiſements he calls all thoſe perjured that were concerned in the <hi>Popiſh Plot</hi> as <hi>Evidences.</hi> Now there is no Man but can ſee through this Villany of his, for we have all lived to ſee what they ſwore and did endeavour to prevent upon us, and a great deal more: I per<g ref="char:EOLhyphen"/>ceive this zealous Gentleman would have theſe Perjuries underſtood only a<g ref="char:EOLhyphen"/>gainſt thoſe that died Papiſts, yet not a word of thoſe wretched Perſons that ſwore many honeſt Proteſtants out of their Lives: Nay I my ſelf was offered by a <hi>Papiſt</hi> when I was in trouble, that if I would <hi>hang half a dozen Fanaticks</hi> [for ſo they termed them] <hi>I ſhould have my Pardon,</hi> and I promiſed to
+<pb n="30" facs="tcp:172680:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="31" facs="tcp:172680:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="32" facs="tcp:172680:25"/>do it, thereby to get an opportunity to make my Eſcape; and this Man was an Intimate of <hi>Honeſt John Gadbury</hi>'s. Now what think you of Perjury, for they never asked me if I knew any thing of them, <hi>but if I would hang them.</hi>
+               </p>
+               <p>In his Advertiſments he tells us of a <hi>Full Reply</hi> to a Treaſonable <hi>Alma<g ref="char:EOLhyphen"/>nack</hi> printed in <hi>Holland;</hi> in which he gives me ſuch baſe Language, and ſo much of it, that it is a ſhame to mention it, his common Complement be<g ref="char:EOLhyphen"/>ing <hi>Rogue, Raſcal</hi> and <hi>Traitor,</hi> with more ſuch ſtuff; but that which I would remind him of is, to tell us by the next where it is to be bought, for <hi>Honeſt Nat</hi> is gone to Purgatory, and the Book is very much wanted. And ſo I have for this bout done with my old Friend <hi>John Gadbury,</hi> James <hi>the Second's Jugler,</hi> and <hi>Aſtrologer</hi> in ordinary to the <hi>next Popiſh Plot,</hi> where I ſhall leave him in a very fair way to be —; and conclude with theſe few wiſe and zealous Sayings of this pious Proſelyte.</p>
+               <p>This is the <hi>Gentleman</hi> that in my hearing ſaid in 1685, that now the <hi>true Religion</hi> was coming in again, having been long excluded.</p>
+               <p>This is that Perſon that ſaid, the <hi>firſt time</hi> he was at <hi>Maſs,</hi> there were alſo <hi>twelve Engliſh Peers</hi> at <hi>Maſs</hi> at the ſame time.</p>
+               <p>This is the Proſelyte that told Mr. <hi>C.</hi> (meeting him as <hi>he came from Maſs</hi>) that <hi>Popery was the only true Religion, and right way to Heaven.</hi>
+               </p>
+               <p>This is <hi>Honeſt Jack</hi> that ſaid, no Man ſhould be preferred but <hi>Roman Catholicks,</hi> and ſuch as would be So when the <hi>King pleaſed.</hi>
+               </p>
+               <p>This is he that carried Mr. <hi>B.</hi> to ſeveral <hi>Papiſts</hi> to be converted, and when they could not prevail upon him, he ſaid he muſt be forced to have him to <hi>Father Petre, and Father Ellis.</hi>
+               </p>
+               <p>This is that <hi>Impudent Fellow</hi> that ſaid it would never be well till the <hi>King</hi> [that was <hi>James</hi>] <hi>laid by Parliaments, and ruled by his Abſolute Power.</hi>
+               </p>
+               <p>This was that corrupt Fellow that perſwaded <hi>Dangerfield</hi> to murder <hi>Charles</hi> the Second.</p>
+               <p>And this is that <hi>Villain</hi> that ſaid, <hi>he hoped to ſee the Prince of</hi> Orange [now our King, whom God preſerve] <hi>brought Priſoner to</hi> London, <hi>and to make a Speech at</hi> Tower-hill <hi>or</hi> Tyburn.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>I Am ordered to acquaint the World, That there will be ſhortly a moſt Excellent Treatiſe publiſhed, wherein 'tis proved, by Mathematical Demonſtration, how many Minutes <hi>a Candle of ſixteen to the Pound will burn;</hi> together with divers Rules of good Husbrandy: Collected for the good of all frugal Men, by a Perſon of Quality in his late Travels.</p>
+            <pb n="32" facs="tcp:172680:26"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
